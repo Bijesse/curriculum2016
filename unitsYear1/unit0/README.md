@@ -1,6 +1,5 @@
 #Unit 0
 
-##Description
 In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.
 
 | Day | Description | 
