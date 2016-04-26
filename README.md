@@ -7,5 +7,5 @@ Year 1
 
 | Pacing  | Unit | Topics/Skills | Description |
 |-------|:-------:|------|--------------|
-| Sept 12-16 | [**0**](unitsYear1/unit0/lessons/day1) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
-| 
+| Sept 12-16 | [**0**](unitsYear1/unit0) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
+| Sept 19-23 | [**1**](unitsYear1/) | |
