@@ -4,4 +4,4 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 
 | Week | Part 1 | Part 2 | 
 |-----|:-------:|:-------:|
-| [1 Basic pages](weeks/week1)| Students will be introduced to the Popcode IDE and will be asked to create their first website.| |
+| [1 Basic pages](weeks/week1)| In this unit students will be introduced to HTML. They will learn basic tag structure and will use the following tags `<head> <body> <p> <h1> <img> <a>`| |
