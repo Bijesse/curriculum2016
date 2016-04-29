@@ -4,9 +4,9 @@ Year 1
 ===================
 | Pacing  | Unit | Topics/Skills | Description |
 |-------|:-------:|------|--------------|
-| Sept 12-16 | [**0**](unitsYear1/unit0) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
-| Sept 19-23 | [**1**](unitsYear1/) | HTML: Content | In this unit students will be introduced to basic tags (head, body, p, H1, img, a)|
-| Sept 26- Oct 7 | [**2**](unitsYear1/) | CSS Tag Selectors | In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors|
+| Sept 26-30 | [**0**](unitsYear1/unit0) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
+| Oct 5-9 | [**1**](unitsYear1/) | HTML: Content | In this unit students will be introduced to basic tags (head, body, p, H1, img, a)|
+| Oct 12 - Oct 16 | [**2**](unitsYear1/) | CSS Tag Selectors | In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors|
 
 
 
