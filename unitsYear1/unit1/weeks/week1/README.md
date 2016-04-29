@@ -15,4 +15,4 @@
 ##Part 2 (45 minutes)
 
 ##Resources
-[Slideshow](https://docs.google.com/presentation/d/1-gKi3ugTLwRzllzoInvDA7aNGejDN84Ab4xpzA5jVkU/edit#slide=id.g12ee5b58a7_0_217)
+####[Slideshow](https://docs.google.com/presentation/d/1-gKi3ugTLwRzllzoInvDA7aNGejDN84Ab4xpzA5jVkU/edit#slide=id.g12ee5b58a7_0_217)
