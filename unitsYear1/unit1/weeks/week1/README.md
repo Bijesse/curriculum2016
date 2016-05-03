@@ -5,7 +5,7 @@
 | Objectives | Vocabulary |
 |-------|-------|
 | <ul>Students will be able to...<li> explain the structure of an HTML webpage.</li> <li>create a webpage that contains a head and a body.</li> </ul>  | <ul> <li>Webpage</li> <li>HTML</li> <li>Tag</li> <li>Browser</li> </ul> | 
-| Key Points | Exit Ticket |
+| <center> **Key Points** </center> |<center> **Exit Ticket** </center> |
 | <ul> <li>A webpage is a text document running in a browser.</li> <li>HTML (Hyper Text Mark-Up Language) gives your webpage structure.</li> <li>Tags are like parenthesis. You have a an open tag and a close tag</li>  </ul> | [**bit.ly/ScriptEdExit1**](http://bit.ly/ScriptEdExit1) | 
 
 ##Part 1 (45 minutes)
@@ -16,6 +16,9 @@ In this lesson the students will again use Popcode to create a website. They wil
 
 ##Project: Site with Images (45 minutes)
 The project for this unit asks the student to create a webpage that includes text, a title, images and links. The students will push their project to GitHub and will finish the class off with a 3 question [**exit ticket**](http://bit.ly/ScriptEdExit1).
+
+**Starter Code:** This project does not contain any Starter Code.  
+**Solution Code**
 
 
 ##Resources
