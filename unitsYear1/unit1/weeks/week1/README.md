@@ -17,9 +17,11 @@ In this lesson the students will again use Popcode to create a website. They wil
 ##Project: Site with Images (45 minutes)
 The project for this unit asks the student to create a webpage that includes text, a title, images and links. The students will push their project to GitHub and will finish the class off with a 3 question [**exit ticket**](http://bit.ly/ScriptEdExit1).
 
-**Starter Code:** This project does not contain any Starter Code.  
-**Solution Code**
+| Starter code | Solution Code |
+|-------|-------|
+|This project does not contain any Starter Code. |[**Popcode Workspace**](https://popcode.org/?gist=2c37f2fad78ee67ffad6aedbd4904356) This solution code is an example of how to complete this project. Students are encouraged to insert their own text and images. |
 
 
 ##Resources
 ####[Slideshow](https://docs.google.com/presentation/d/1-gKi3ugTLwRzllzoInvDA7aNGejDN84Ab4xpzA5jVkU/edit#slide=id.g12ee5b58a7_0_217)
+
