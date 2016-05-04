@@ -1,7 +1,6 @@
 #Unit 1: HTML Content 
 
-In this unit students will be introduced to HTML. They will learn tag structure and wil use basic tags (head, body, p, H1, img, a)
-
+In this unit students will be introduced to HTML. They will learn tag structure and wil use basic tags `<head> <body> <p> <h1> <img> <a>`
 <table>
 <tr>
 	<th align="left">Week</th>
