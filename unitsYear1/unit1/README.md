@@ -14,7 +14,7 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 	<td>In part 2 the students will again use Popcode to create a website. They will also sign up for a GitHub account.</td>
 </tr>
 <tr>
-	<th align="left"><a href ="" >Project: Images</a></th>
+	<th align="left"><a href ="projects/project1" >Project: Images</a> </th>
 	<th align="left" colspan="2">The project for this unit asks the student to create a webpage that includes text, a title, images and links. </th>
 </table>
 
