@@ -17,3 +17,7 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 	<th align="left" colspan="2">The project for this unit asks the student to create a webpage that includes text, a title, images and links. </th>
 </table>
 
+
+###Computer Science Standards Alignment
+**Standard 1** Information about the standard
+
