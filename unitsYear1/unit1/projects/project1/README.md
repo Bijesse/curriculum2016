@@ -12,7 +12,6 @@ The project for this unit asks the student to create a webpage that includes tex
 ##Project Extensions
 If students complete this project early, they are encouraged to add a list to their page. Students should be directed to Google "How to make a list in HTML" to do this.
 
-##Resources
-####[Slideshow](https://docs.google.com/presentation/d/1el_Ohy5n9a6RRTq_hEgtFa0rUUYhJenPrDfVAe3JUWs/edit?usp=sharing)
+##[Slideshow](https://docs.google.com/presentation/d/1el_Ohy5n9a6RRTq_hEgtFa0rUUYhJenPrDfVAe3JUWs/edit?usp=sharing)
 
 
