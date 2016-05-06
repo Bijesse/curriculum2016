@@ -3,7 +3,7 @@
 ![image](http://i.imgur.com/LnFsXHH.png)
 
 ##Scope
-The project for this unit asks the student to create a webpage that includes text, a title, images and links. The students will push their project to GitHub and will finish the unit off with a 3 question [**exit ticket**](http://bit.ly/ScriptEdExit1).
+The project for this unit asks the student to create a webpage that includes text, a title, images and links. The students will push their project to GitHub and will finish the unit off with a three question [**exit ticket**](http://bit.ly/ScriptEdExit1).
 
 ##Time to complete
 This project should take one 45 minute period to complete. Project may take less or more time depending on students' needs.  
