@@ -12,7 +12,7 @@ In this lesson the students will again use Popcode to create a website. They wil
 ##Teacher Notes & Pro Tips
 * Tags are like parenthesis! They work in pairs. (each one has a friend)
 * Use the "view in seperate page"" feature in Popcode to show students they have made a live website.
-* Just like how you use Goggle docs for your papers you use Popcode (or other IDEs) for coding. 
+* Just like how you use Google docs or MS word for your papers you use Popcode (or other IDEs) for coding. 
 
 
 
