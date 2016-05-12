@@ -1,5 +1,5 @@
 #Unit 1: Project 1  
-#Images and Links
+#Basic Pages
 ![image](http://i.imgur.com/LnFsXHH.png)
 
 ##Scope
