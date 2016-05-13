@@ -4,9 +4,9 @@ Year 1
 ===================
 | Time | Unit | Topics/Skills | Description |
 |--------|:-------:|:------:|:--------------:|
-| 90 minutes | [**0**](unitsYear1/unit0) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
-|  135 minutes | [**1**](unitsYear1/unit1) | HTML: Content | In this unit students will be introduced to HTML. They will learn basic tag structure and will use the following tags `<head> <body> <p> <h1> <img> <a>`|
-| 180 minutes | [**2**](unitsYear1/) | CSS Tag Selectors | In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors|
+| 90 minutes | [**0**](unit0) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
+|  135 minutes | [**1**](unit1) | HTML: Content | In this unit students will be introduced to HTML. They will learn basic tag structure and will use the following tags `<head> <body> <p> <h1> <img> <a>`|
+| 180 minutes | [**2**](unit2) | CSS Tag Selectors | In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors|
 
 
 
