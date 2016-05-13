@@ -3,7 +3,7 @@
 In this unit students will be introduced to HTML. They will learn tag structure and wil use basic tags `<head> <body> <p> <h1> <img> <a>`
 <table>
 <tr>
-	<th align="left">Week</th>
+	<th align="left">Topic</th>
 	<th>Part 1</th>
 	<th>Part 2</th>
 </tr>
