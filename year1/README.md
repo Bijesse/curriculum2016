@@ -14,7 +14,7 @@ Year 1
 
 | Lesson | Description |
 |-------|:-------:|
-| [Googling 101](miscLessons/googling101) | In this one day activity the students will be taught how to optimize their search engine skills.|
+| [Googling 101](../miscLessons/googling101) | In this one day activity the students will be taught how to optimize their search engine skills.|
 |  [Hackathon Prep]()  | In this project the students are given an in-class hackathon in which they will partner up in small groups to create a project over multiple classes.| 
 
 
