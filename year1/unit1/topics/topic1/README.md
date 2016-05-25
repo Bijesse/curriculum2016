@@ -20,6 +20,6 @@ In this lesson the students will again use Popcode to create a website. They wil
 |-------|-------|
 | <ul>Students will be able to...<li> explain the structure of an HTML webpage.</li> <li>create a webpage that contains a head and a body.</li> </ul>  | <ul> <li>Webpage</li> <li>HTML</li> <li>Tag</li> <li>Browser</li> </ul> | 
 | <center> **Slide Show** </center> |<center> **Exit Ticket** </center> |
-|[Annotated Google Slides](https://docs.google.com/presentation/d/1-gKi3ugTLwRzllzoInvDA7aNGejDN84Ab4xpzA5jVkU/edit#slide=id.g12ee5b58a7_0_217)| <ul><li>[**bit.ly/ScriptEdExit1**](http://bit.ly/ScriptEdExit1) Completed at the end of project 1.</li> <li>[Exit ticket results](https://docs.google.com/spreadsheets/d/1q--aEbMs2JWOZhFlYlv-TzEVOOkVrjEP25WcFj92nL4/edit#gid=313397747).</li> </ul> | 
+|<ul><li>[Slides: Part 1](https://docs.google.com/presentation/d/1-gKi3ugTLwRzllzoInvDA7aNGejDN84Ab4xpzA5jVkU/edit#slide=id.g12ee5b58a7_0_217) </li> <li>[Slides: Part 2](https://docs.google.com/presentation/d/1-gKi3ugTLwRzllzoInvDA7aNGejDN84Ab4xpzA5jVkU/edit#slide=id.g12ee5b58a7_0_112)</li></ul>| <ul><li>[**bit.ly/ScriptEdExit1**](http://bit.ly/ScriptEdExit1) Completed at the end of project 1.</li> <li>[Exit ticket results](https://docs.google.com/spreadsheets/d/1q--aEbMs2JWOZhFlYlv-TzEVOOkVrjEP25WcFj92nL4/edit#gid=313397747).</li> </ul> | 
 
 
