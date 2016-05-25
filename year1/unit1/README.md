@@ -20,6 +20,5 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 </table>
 
 
-###Computer Science Standards Alignment
-**Standard 1** Information about the standard
+[Computer Science Standards Alignment](csStandards.md)
 
