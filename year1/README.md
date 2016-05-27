@@ -1,4 +1,4 @@
-### # ScriptEd Curriculum 2016-2017
+###ScriptEd Curriculum 2016-2017
 
 Year 1
 ===================

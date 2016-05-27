@@ -1,6 +1,7 @@
-#Unit 1: HTML Content 
+#Unit 2: CSS Tag Selectors 
 
-In this unit students will be introduced to HTML. They will learn tag structure and wil use basic tags `<head> <body> <p> <h1> <img> <a>`
+In this unit students will be introduced to CSS. They will use basic selectors such as `p h1 body img` to change color and position of content on a page.
+
 <table>
 <tr>
 	<th align="left">Topic</th>
