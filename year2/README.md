@@ -11,7 +11,7 @@ Advanced Course
 | 2 hours| [Tech Culture Day](unitsYear2/) | Professional Skills| Staying involved in the Tech community. |
 | 4 hours| [Portfolio](unitsYear2/) | Bootstrap & GitHub Pages| Student will create a professional portfolio that will be hosted on GitHub pages. They will also add relevant projects to it |
 | 4 hours| [Rock, Paper, Scissors](unitsYear2/) | jQuery, JS Functions & contiionals | Students will first create a game that works functionally in the console. They will then create a webapp for their game.|
-| 4 hours| [JS Objest](unitsYear2/) | Objects| Student will create objects and call information from them. |
+| 4 hours| [JS Objects](unitsYear2/) | Objects| Student will create objects and call information from them. |
 | 4 hours| [Giphy API](unitsYear2/) | API, JSON, Dev Tools| Student will create a webapp using the Giphy API|
 | 4 hours| [Foursquare API](unitsYear2/) | API, JSON, Dev Tools| Student will create a webapp using the Foursquare API|
 | 2 hours| [Tech Culture Day](unitsYear2/) | Professional Skills| Staying involved in the Tech community. |
