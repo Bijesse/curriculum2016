@@ -6,7 +6,7 @@ Year 1
 |--------|:-------:|:---------:|:--------------:|
 | 90 minutes | [**0**](unit0) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
 |  135 minutes | [**1**](unit1) | HTML: Content | In this unit students will be introduced to HTML. They will learn basic tag structure and will use the following tags `<head> <body> <p> <h1> <img> <a>`|
-| 180 minutes | [**2**](unit2) | CSS Tag Selectors | In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors|
+| 180 minutes | [**2**](unit2) | CSS Tag Selectors | In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors.|
 | 180 minutes | [**3**](unit3) | HTML Lists, HTML Classes & IDs | In this unit students |
 | 180 minutes | [**4**](unit4) | Wireframing, HTML Layout, `<div>` | In this unit students |
 | 270 minutes | [**5**](unit5) | jQuery: show/hide, event, inputs, .val() | In this unit students |
