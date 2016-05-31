@@ -9,7 +9,7 @@ In this unit students will be taught how to manipulate the style of a webpage us
 	<th>Part 2</th>
 </tr>
 <tr>
-	<td align="left"> <a href="weeks/week1">1 What is CSS?</a> </td>
+	<td align="left"> <a href="topics/topic1">1 What is CSS?</a> </td>
 	<td>In part 1 students will be introduced to CSS. They will change color and size of HTML elements </td>
 	<td>In part 2 the students will be introduced to a branding exercise. This will also encourage them to use more CSS. </td>
 </tr>
