@@ -7,12 +7,12 @@ Year 1
 | 90 minutes | [**0**](units/unit0) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
 |  135 minutes | [**1**](units/unit1) | HTML: Content | In this unit students will be introduced to HTML. They will learn basic tag structure and will use the following tags `<head> <body> <p> <h1> <img> <a>`|
 | 180 minutes | [**2**](units/unit2) | CSS Tag Selectors | In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors.|
-| 180 minutes | [**3**](units/unit3) | HTML Lists, HTML IDs & Classes | In this unit students |
-| 180 minutes | [**4**](units/unit4) | Wireframing, HTML Layout, `<div>` | In this unit students |
+| 180 minutes | [**3**](units/unit3) | HTML Lists, HTML IDs & Classes, `<div>` | In this unit students |
+| 180 minutes | [**4**](units/unit4) | Wireframing, HTML Layout | In this unit students |
 | 270 minutes | [**5**](units/unit5) | jQuery: show/hide, event, inputs, .val() | In this unit students |
 | 90 minutes | [**6**](units/unit6) | Cloud9 & Git| In this unit students |
 | 90 minutes | [**7**](units/unit7) | HTML: Multi-page sites| In this unit students |
-| 180 minutes | [**8**](units/unit8) | HTML Lists, HTML Classes & IDs | In this unit students |
+| 180 minutes | [**8**](units/unit8) | JavScript & jQuery: Manipulating content | In this unit students |
 
 
 ####Misc Lessons, Games and Projects
