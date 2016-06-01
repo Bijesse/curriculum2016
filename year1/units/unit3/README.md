@@ -11,7 +11,7 @@ In this unit students will
 <tr>
 	<td align="left"> <a href="topics/topic1">1 HTML lists</a> </td>
 	<td>In part 1 students will create a wepage with four HTML lists  </td>
-	<td>N/A. The teacher may choose to teach a <a href="../../miscLessons">misc lesson</a> if they would like.</td>
+	<td>N/A. The teacher may choose to teach a <a href="../../../miscLessons">misc lesson</a> if they would like.</td>
 </tr>
 <tr>
 	<td align="left"> <a href="topics/topic2">2 HTML IDs and Classes</a> </td>
