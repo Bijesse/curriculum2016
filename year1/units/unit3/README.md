@@ -1,4 +1,4 @@
-#Unit 2: HTML Lists, IDs & Classes 
+#Unit 3: HTML Lists, Classes & IDs 
 
 In this unit students will 
 
@@ -14,9 +14,9 @@ In this unit students will
 	<td>N/A. The teacher may choose to teach a <a href="../../../miscLessons">misc lesson</a> if they would like.</td>
 </tr>
 <tr>
-	<td align="left"> <a href="topics/topic2">2 HTML IDs and Classes</a> </td>
-	<td>In part 1 students will   </td>
-	<td></td>
+	<td align="left"> <a href="topics/topic2">2 Classes, IDs & Divs</a> </td>
+	<td>In part 1 students will assign IDs and Classes to paragraphs, headings and lists</td>
+	<td> In Part 2 the students will be introduced to div tags. they will then apply styles to specific divs. </td>
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project1" >Project: </a> </th>
