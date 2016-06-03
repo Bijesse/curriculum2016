@@ -20,7 +20,7 @@ In this unit students will
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project1" >Project: </a> </th>
-	<th align="left" colspan="2">The project for this unit asks the student to customize a webpage without manipulating the html. </th>
+	<th align="left" colspan="2">The project for this unit has the student log onto a tutorial designed by General Assembly. This tutorial will reinforce student understanding of materials taught and will introduce CSS basics. </th>
 </table>
 
 
