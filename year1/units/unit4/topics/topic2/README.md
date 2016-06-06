@@ -10,7 +10,7 @@
 
 <tr>
 	<td>In lesson 1 the students will create their first wireframe. This will allow them to get started on the final project of this unit.</td>
-	<td> This topic does not have a second lesson. Instead, students will get started on <a target="_blank" href="../projects/project2"> Unit 4 Project 2</a> </td>
+	<td> This topic does not have a second lesson. Instead, students will get started on <a target="_blank" href="../../projects/project2"> Unit 4 Project 2</a> </td>
 </tr>
 </table>
 
