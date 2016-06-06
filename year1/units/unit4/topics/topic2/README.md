@@ -1,21 +1,28 @@
-#Unit 3: Topic 2  
-#Classes, IDs & Divs
- ![Imgur](http://i.imgur.com/DuOsNAP.jpg)
- 
-##Part 1 (45 minutes)
-In this lesson students will be introduced to Classes and IDs. They will assign classes and IDs to paragraphs, headings and lists. Then they will add style to them.
+#Unit 4: Topic 2 || Responsive Sites & Wireframes
+![Imgur](http://i.imgur.com/hwLWyaBm.png) 
 
-##Part 2 (50 minutes)
-In this lesson students will be introduced to `<div>` tags. They will creates webpages that use div tags with classes and IDs.
-  
-##Teacher Notes & Pro Tips
-* IDs should not be used more than once on a page.
-* Div tags are like chameleons! They can take any style they want.
+<table>
+<tr>
+	<th>Lesson 1 (45 min)</th>
+	<th>Lesson 2 (45 min)</th>
+</tr>
+<tr>
+
+<tr>
+	<td>In part 1 students will be introduced to sizing by percentages as opposed to pixels.</td>
+	<td> In Part 2 the students will create their first wireframe. This will allow them to get started on the final project of this unit. </td>
+</tr>
+</table>
+
+***
+
 
 | Objectives | Vocabulary |
 |-------|-------|
-| <ul>Students will be able to...<li> add an ID or Class to an HTML tag.</li> <li>add style to a class or ID by using a valid CSS selector.</li> <l1>implement a div tag onto their webpage.</li></ul>  | <ul> <li>ID</li> <li>Class</li> <li>Selector</li>  <li>Div</li></ul> | 
-| <center> **Slide Show** </center> |<center> **Exit Ticket** </center> |
-|<ul><li>[Slides: Part 1](https://docs.google.com/presentation/d/1XfctocnELYHFexh9fHwHGjFzSD-k6E3AuDOEo1y36z8/edit#slide=id.g12ee5b58a7_0_0)</li> <li>[Slides: Part 2](https://docs.google.com/presentation/d/1XfctocnELYHFexh9fHwHGjFzSD-k6E3AuDOEo1y36z8/edit#slide=id.g1349ad4351_0_149)</li></ul>| <ul><li>[**bit.ly/ScriptEdExit4**](http://bit.ly/ScriptEdExit4) Completed at the end of part 2.</li> <li>[Exit ticket results 4](https://docs.google.com/spreadsheets/d/1f1EecSTM1mzJLIU1_6UXEVGhDwWVX9jXJSIR7zgVsRg/edit?usp=sharing).</li> </ul> | 
+| <ul>Students will be able to...<li> use the float property to position elements</li> <li>manipulate content using margin, padding and border</li> <li>Use a reference table to assit in syntax recall</li> </ul>  | <ul> <li>text-align</li> <li>float</li> <li>box model</li> <li>margin</li><li>border</li><li>padding</li></ul> | 
+| <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
+|<ul><li>Print Reference Tables! Ask your program manager for copies</li> <li>Students might struggle retrieving an old gist. Be sure to allow time to work through this.</li></ul>| <ul><li><a target="_blank" href = "https://docs.google.com/presentation/d/1Janj66gaRWaXFtr9EnxK2l7LBk-_CnH4EUnf0YtPI-k/edit#slide=id.g12ee5b58a7_0_0">Slides: Lesson 1</a></li> <li> <a target="_blank" href = "https://docs.google.com/presentation/d/1Janj66gaRWaXFtr9EnxK2l7LBk-_CnH4EUnf0YtPI-k/edit#slide=id.g1349ad4351_0_149">Slides: Lesson 2</a></li></ul> |
+
+
 
 
