@@ -5,13 +5,13 @@ In this unit students will learn how to manipulate the look and feel of a webpag
 <table>
 <tr>
 	<th align="left">Topic</th>
-	<th>Part 1</th>
-	<th>Part 2</th>
+	<th>Lesson 1 (45 min)</th>
+	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
 	<td align="left"> <a href="topics/topic1">1 Float & Box Model</a> </td>
 	<td>In part 1 students will be introduced to text-align and float. </td>
-	<td>In part 2 the stduents will be introduced to the CSS box model.</td>
+	<td>In part 2 the stduents will be introduced to the CSS box model. They will also be given a <a href ="">ScriptEd Reference Table</a></td>
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project1" >Project 1 </a> </th>
@@ -26,6 +26,10 @@ In this unit students will learn how to manipulate the look and feel of a webpag
 	<th align="left"><a href ="projects/project2" >Project 2 </a> </th>
 	<th align="left" colspan="2">The final project for this unit will follow the online design competition called <a href="https://www.csszengarden.com/">CSS Zen Garden</a>. </th>
 </tr>
+<tr>
+	<th align="center" colspan="3">Unit Challenge: bit.ly/ScriptEdExit5 </th>
+</tr>
+
 </table>
 
 
