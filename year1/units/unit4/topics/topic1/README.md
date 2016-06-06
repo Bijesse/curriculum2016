@@ -3,12 +3,11 @@
  
 <table>
 <tr>
-	<th align="left">Topic</th>
 	<th>Lesson 1 (45 min)</th>
 	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
-	<td align="left"> <a href="topics/topic1">1 Float & Box Model</a> </td>
+
 	<td>In part 1 students will be introduced to text-align and float. </td>
 	<td>In part 2 the stduents will be introduced to the CSS box model. In part 2 the stduents will be introduced to the CSS box model. They will also be given a <a href ="">ScriptEd Reference Table</a></td>
 </tr>
