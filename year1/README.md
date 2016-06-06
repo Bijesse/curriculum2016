@@ -2,7 +2,7 @@
 
 Year 1
 ===================
-| Time | Unit | Topics/Skills | Description |
+| Time | Unit | Skills | Description |
 |--------|:-------:|:---------:|:--------------:|
 | 90 minutes | [**0**](units/unit0) | Routines and Expectations | In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.|
 |  135 minutes | [**1**](units/unit1) | HTML: Content | In this unit students will be introduced to HTML. They will learn basic tag structure and will use the following tags `<head> <body> <p> <h1> <img> <a>`|
