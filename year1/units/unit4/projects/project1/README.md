@@ -1,30 +1,27 @@
-#Unit 3: Project 1  
-#General Assembly Website Tutorial
-![Imgur](http://i.imgur.com/t1O7Zcj.jpg)
+#Unit 4: Project 1 || ScriptEd CSS Garden
+
 
 ##Scope
-The project for this unit is a tutorial made by General Assembly. This tutorial is a self-guided set of step-by-step instructions that will reinforce student learning on concepts being taught in class.
+The first project in this unit asks the students to take the provided HTML [Starter Code](https://popcode.org/?gist=00dec2d499df0019b76afd804b4772a7) and design CSS for it. The students are required to not edit the HTML in any way. 
 
 
 ##Estimated Completion Time
 This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
-* **Before class begins** 1 copy of the [GA Tutorial Worksheet](https://www.dropbox.com/s/x7kyti0jt6easj0/GeneralAssemblyPacketJeffBlog.docx ) must be printed for each student.
-* Completing this project can be assigned to students for homework or during class on a day ScriptEd volunteers are not present.
-* Encourage students to customize the website to be personal to them.
-* The project completed is number 2 of 5 in General Assembly's tutorials. Project #3 could also be great practice and can be assigned for homework.
+* It is encouraged that the teachers in the class complete this project and show off their final product to the class before they get started
+* Students must work in pairs and present their work. This will help build professional skills.
 
 <br>
 
 | Starter code | Solution Code |
 |-------|-------|
-|This project does not contain any Starter Code. | [Solution code](https://dash.generalassemb.ly/projects/build-your-own-blog-theme) |
+|[Starter Code](https://popcode.org/?gist=00dec2d499df0019b76afd804b4772a7) | Students are encouraged to be creative. Therefore this project does not have solution code |
 
-##[Google Slides](https://docs.google.com/presentation/d/150yZStV8RYMswp0Z8aIR-4jHjIkv9kjMXCAbkMjBV48/edit?usp=sharing)
+##[Google Slides](https://docs.google.com/presentation/d/1_SDEEjl2-rxSspK5AWUfRXy6Z9TqCpx0ssWkybGPBeE/edit?usp=sharing)
 
 ##Project Extensions
-If students complete this project early, they are encouraged to copy and paste the code into popcode and customize the site to be personalized to them.
+If students complete this project early, they are encouraged to customize this site so that it is mobile friendly. As a note, responsive websites will be the next topic covered.
 
 
 
