@@ -1,6 +1,6 @@
 #Unit 4: Positioning, Layout and Wireframing 
 
-In this unit students will learn how to manipulate the look and feel of a webpage using CSS. Until this point all pages the students have created are aligned to the left of the page and each element has its own row. In this unit students will be intorduced to properties that allows for greater visual manipulation.  
+In this unit students will learn how to manipulate the look and feel of a webpage using CSS. Until this point all pages the students have created are aligned to the left of the page and each element has its own row. In this unit students will be introduced to properties that allows for greater visual manipulation.  
 
 <table>
 <tr>
