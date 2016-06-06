@@ -22,7 +22,4 @@
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
 |<ul><li>Print Reference Tables! Ask your program manager for copies</li> <li>Students might struggle retrieving an old gist. Be sure to allow time to work through this.</li></ul>| <ul><li>[Slides: Part 1](https://docs.google.com/presentation/d/1Janj66gaRWaXFtr9EnxK2l7LBk-_CnH4EUnf0YtPI-k/edit#slide=id.g12ee5b58a7_0_0)</li> <li>[Slides: Part 2](https://docs.google.com/presentation/d/1Janj66gaRWaXFtr9EnxK2l7LBk-_CnH4EUnf0YtPI-k/edit#slide=id.g1349ad4351_0_149)</li></ul> |
 
-##Teacher Notes & Pro Tips
-* Be sure to have reference tables printed for each student. Ask your program manager for copies.
-* Emphasize the importance of the reference table! 
-*  Students might struggle retrieving an old gist. Be sure to allow time to work through this.
+
