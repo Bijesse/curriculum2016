@@ -18,9 +18,9 @@ In this unit students will learn how to manipulate the look and feel of a webpag
 	<th align="left" colspan="2">This project will ask students to customize the CSS of a webpage without manipulating the HTML. </th>
 </tr>
 <tr>
-	<td align="left"> <a href="topics/topic2">2 Mobile & Wireframes </a> </td>
-	<td>In part 1 students will be introduced to sizing by percentages as opposed to pixels.</td>
-	<td> In Part 2 the students will create their first wireframe. This will allow them to get started on the final project of this unit. </td>
+	<td align="left"> <a href="topics/topic2">2 Wireframing </a> </td>
+	<td>In lesson 1 the students will create their first wireframe. This will allow them to get started on the final project of this unit.</td>
+	<td> This topic does not have a second lesson. Instead, students will get started on <a target="_blank" href="../../projects/project2"> Unit 4 Project 2</a> </td>
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project2" >Project 2 </a> </th>
