@@ -1,27 +1,26 @@
-#Unit 4: Project 1 || ScriptEd CSS Garden
+#Unit 5: Project 1 || Pun-A-Thon
 
 
 ##Scope
-The first project in this unit asks the students to take the provided HTML [Starter Code](https://popcode.org/?gist=00dec2d499df0019b76afd804b4772a7) and design CSS for it. The students are required to not edit the HTML in any way. 
+This project asks the students to complete a project that is unfinished using jQuery events.
 
 
 ##Estimated Completion Time
-This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
+This project should take 30-40 minutes to complete. Project may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
-* It is encouraged that the teachers in the class complete this project and show off their final product to the class before they get started
-* Students must work in pairs and present their work. This will help build professional skills.
+* It is encouraged to show off the project's solution code before having the students begin in order for them to understand where the project is going.
 
 <br>
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://popcode.org/?gist=00dec2d499df0019b76afd804b4772a7) | Students are encouraged to be creative. Therefore this project does not have solution code |
+|[Starter Code](https://popcode.org/?gist=669fd43006daa8793b68e66160371606) | [Solution Code]()|
 
-##[Google Slides](https://docs.google.com/presentation/d/1_SDEEjl2-rxSspK5AWUfRXy6Z9TqCpx0ssWkybGPBeE/edit?usp=sharing)
+##[Google Slides](https://docs.google.com/presentation/d/1WF-V39WIfWG8kuhNrD7L0Mx7Dyh3aZjd9-_u2rQMWZ8/edit?usp=sharing)
 
 ##Project Extensions
-If students complete this project early, they are encouraged to customize this site so that it is mobile friendly. As a note, responsive websites will be the next topic covered.
+If students complete this project early, the commments in the code ask for the student to create buttons that will initiate the events.
 
 
 

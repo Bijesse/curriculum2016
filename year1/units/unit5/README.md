@@ -15,7 +15,7 @@ In this unit students are introduced to jQuery. jQuery is used as a tool for cre
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project1" >Project 1 </a> </th>
-	<th align="left" colspan="2">This project will ask students to complete a project that is unfinished using jQuery events. </th>
+	<th align="left" colspan="2">This project asks students to complete a project that is unfinished using jQuery events. </th>
 </tr>
 <tr>
 	<td align="left"> <a href="topics/topic2">2 Value </a> </td>
