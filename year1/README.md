@@ -33,7 +33,7 @@ Year 1
 
 
 
-![Imgur](http://i.imgur.com/jrrNGfI.png)
+![Imgur](http://i.imgur.com/44cqS24.png)
 This calendar is a recommended schedule to be followed in ScriptEd courses.
 
 ####Resources
