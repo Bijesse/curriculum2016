@@ -23,3 +23,6 @@
 |<ul><li>Be silly in the first lesson!</li> <li>Do not spend time explaining the differences between jQuery and JavaScript. This will ocme later in the year but will cause confusion now.</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1z2c-cpe-hml-_HI9eA2gS-cjVsbfntHWYhU8oPKwBgY/edit#slide=id.g12ee5b58a7_0_0" target="_blank">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1z2c-cpe-hml-_HI9eA2gS-cjVsbfntHWYhU8oPKwBgY/edit#slide=id.g1349ad4351_0_149" target="_blank">Slides: Lesson 2</a></li></ul> |
 
 
+
+
+
