@@ -1,5 +1,5 @@
-#Unit 4: Topic 2 ||  Wireframing
-![Imgur](http://i.imgur.com/hwLWyaBm.png) 
+#Unit 5: Topic 2 ||  Value and Syntax
+![Imgur](http://i.imgur.com/KwaFtIPm.png)
 
 <table>
 <tr>
@@ -9,8 +9,8 @@
 <tr>
 
 <tr>
-	<td>In lesson 1 the students will create their first wireframe. This will allow them to get started on the final project of this unit.</td>
-	<td> This topic does not have a second lesson. Instead, students will get started on <a target="_blank" href="../../projects/project2"> Unit 4 Project 2</a> </td>
+	<td>In lesson 1 the students will be introduced to input fields and .val().</td>
+	<td> In lesson 2 the students will be asked to complete a syntax and debugging activity. </td>
 </tr>
 </table>
 
@@ -19,9 +19,9 @@
 
 | Objectives | Vocabulary |
 |-------|-------|
-| <ul>Students will be able to...<li> create a wireframe for a popular website</li> <li>create a wireframe as a plan for a site they will design</li> </ul>  | <ul> <li>wireframe</li> <li>fields</li> </ul> | 
+| <ul>Students will be able to...<li> place an input field on a webpage.</li> <li>retrieve information from an unput field using .val()</li> <li>define syntax and explain its importance</li></ul>  | <ul> <li>input</li> <li>button</li> <li>value</li> <li>syntax</li><li>debug</li></ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
-|<ul><li>Do not jump into wireframe software on the first lesson. ScriptEd encourages extending this unit with wireframing software if the teacher would like to. Be sure to allow time to work through this.</li></ul>| <ul><li><a target="_blank" href = "https://docs.google.com/presentation/d/1Janj66gaRWaXFtr9EnxK2l7LBk-_CnH4EUnf0YtPI-k/edit#slide=id.g12ee5b58a7_0_0">Slides: Lesson 1</a></li></ul> |
+|<ul><li>Explain getting the value from something as data physically moving across a page.</li><li>Do not introduce difficult concepts like variables and "this" during this unit. This is meant only to be introductory.</li></ul>| <ul><li><a target="_blank" href = "https://docs.google.com/presentation/d/1zxgpue4og_d0x0jNrvFxpfh-pyq-kS6g2qXPBzBiKq8/edit#slide=id.g12ee5b58a7_0_0">Slides: Lesson 1</a></li> <li><a target="_blank" href = "https://docs.google.com/presentation/d/1zxgpue4og_d0x0jNrvFxpfh-pyq-kS6g2qXPBzBiKq8/edit#slide=id.g14ed8f4727_0_76">Slides: Lesson 2</a></li></ul> |
 
 
 
