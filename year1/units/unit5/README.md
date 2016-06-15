@@ -18,23 +18,24 @@ In this unit students are introduced to jQuery. jQuery is used as a tool for cre
 	<th align="left" colspan="2">This project asks students to complete a project that is unfinished using jQuery events. </th>
 </tr>
 <tr>
-	<td align="left"> <a href="topics/topic2">2 Value </a> </td>
-	<td>In lesson 1 the students will </td>
-	<td>  </td>
+	<th align="center" colspan="3">Unit Challenge: hr.gs/unit5challenge </th>
+</tr>
+<tr>
+	<td align="left"> <a href="topics/topic2">2 Value & Syntax </a> </td>
+	<td>In lesson 1 the students will be introduced to input fields and .val()  </td>
+	<td>In lesson 2 the students will be asked to complete a syntax and debugging activity. </td>
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project2" >Project 2 </a> </th>
-	<th align="left" colspan="2">This project asks the students to  </th>
+	<th align="left" colspan="2">This project asks the students to create a site that uses all the skills they have learned thus far with jQuery. </th>
 </tr>
-<tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit5challenge </th>
-</tr>
+
 
 </table>
 
 
 ##Extra Resources, Challenges and Projects
-**Project:** [Do you love ScriptEd?](https://popcode.org/?gist=0b45fb64254646f993da2804b691a497) 
+**Project:** [Do you love ScriptEd?](https://popcode.org/?gist=0b45fb64254646f993da2804b691a497): Can be completed with topic 1 skills only
 
 [Computer Science Standards Alignment](csStandards.md)
 
