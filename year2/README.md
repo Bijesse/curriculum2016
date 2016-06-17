@@ -7,7 +7,7 @@ Advanced Course
 | Time  | Unit | Topics/Skills | Description |
 |-------|:-------:|------|--------------|
 | 1 session | [Intro](units/) | Expectations set & Slack channel created | All advanced students will meet at a central location. An info session will be held by ScriptEd. Students will sign up for a Slack channel during this time. |
-| 3 sessions| [Review](units/) | JS Types| Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
+| 3 sessions| [Review](units/review) | JS Types| Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
 | 1 session| [Tech Culture Day](units/) | Professional Skills| Staying involved in the Tech community. |
 | 2 sessions | [Portfolio](units/) | Bootstrap & GitHub Pages| Student will create a professional portfolio that will be hosted on GitHub pages. They will also add relevant projects to it |
 | 2 sessions | [Rock, Paper, Scissors](units/) | jQuery, JS Functions & contiionals | Students will first create a game that works functionally in the console. They will then create a webapp for their game.|
