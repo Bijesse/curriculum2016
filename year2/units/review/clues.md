@@ -75,5 +75,5 @@ These programs must be completed in either jsBin or cloud9.
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
-| 2 | Fork | Fork an instructor's repo and add a .txt file with your name in it. | 5 | 
-| 3 | Pull | Send a pull request to the instructor. | 5 |
+| 1 | Fork | Fork an instructor's repo and add a .txt file with your name in it. | 5 | 
+| 2 | Pull | Send a pull request to the instructor. | 5 |
