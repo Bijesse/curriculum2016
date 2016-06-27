@@ -1,6 +1,6 @@
-#Unit 6: Cloud 9 and GitHub
+#Unit 6: Cloud 9, GitHub & Multi-Page Sites 
 
-In this unit students are introduced to jQuery. jQuery is used as a tool for creating interactive websites that react to user actions.
+In this unit students students will be introduced to a new IDE called Cloud 9. They will then create a project using Cloud 9 and GitHub using skills they have already gained in previous units.
 
 <table>
 <tr>
@@ -15,11 +15,11 @@ In this unit students are introduced to jQuery. jQuery is used as a tool for cre
 </tr>
 <tr>
 	<td align="left"> <a href="topics/topic2">2 Multiple pages </a> </td>
-	<td>In lesson 1 the students will create new files HTML for their portfolio project. They will then link the pages. </td>
-	<td>In lesson 2 the students will customize the new pages they have created. </td>
+	<td>In lesson 1 the students will create and link new HTML files for their portfolio project. </td>
+	<td>There is no lesson 2 for this topic. The teacher may choose to have students continue customizing their portfolio site or move on to the next unit. </td>
 </tr>
 <tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/ </th>
+	<th align="center" colspan="3">Unit Challenge: hr.gs/unit6challenge </th>
 </tr>
 
 
@@ -27,7 +27,7 @@ In this unit students are introduced to jQuery. jQuery is used as a tool for cre
 
 
 ##Extra Resources, Challenges and Projects
-**Project:** [Do you love ScriptEd?](https://popcode.org/?gist=0b45fb64254646f993da2804b691a497): Can be completed with topic 1 skills only
+
 
 [Computer Science Standards Alignment](csStandards.md)
 

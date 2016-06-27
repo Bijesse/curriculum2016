@@ -10,7 +10,7 @@ Year 1
 | 270 minutes | [**3**](units/unit3) | HTML Lists, HTML IDs & Classes, `<div>` | In this unit students will first learn how to make ordered and unordered list. They will then utilize IDs and Classes to identify tags on a webpage. |
 | 315 minutes | [**4**](units/unit4) |  Positioning, Layout & Wireframing | In this unit students will learn to position elements on a page using CSS. Students will be introduced to the CSS box model. |
 | 270 minutes | [**5**](units/unit5) | jQuery: show/hide, events, inputs, .val() | In this unit students are introduced to jQuery. jQuery is used as a tool for creating interactive websites that react to user actions. |
-| 90 minutes | [**6**](units/unit6) | Cloud9, Git, Multi-Page Sites| In this unit students students will be introduced to a new IDE called CLoud 9. They will then create a project using Cloud 9 and GitHub using skills they have already gained in previous units. |
+| 90 minutes | [**6**](units/unit6) | Cloud9, Git, Multi-Page Sites| In this unit students students will be introduced to a new IDE called Cloud 9. They will then create a project using Cloud 9 and GitHub using skills they have already gained in previous units. |
 | 90 minutes | [**7**](units/unit7) | GitHub Collaboration | In this unit the class will collaborate on two projects using GitHub and Cloud 9.|
 | 180 minutes | [**8**](units/unit8) | JavaScript: Conditionals, Values & Variables| In this unit students |
 | 180 minutes | [**9**](units/unit9) | JavaScript: Pre-made Functions & Strings| In this unit students |
