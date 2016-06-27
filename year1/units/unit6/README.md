@@ -1,6 +1,6 @@
 #Unit 6: Cloud 9, GitHub & Multi-Page Sites 
 
-In this unit students students will be introduced to a new IDE called Cloud 9. They will then create a project using Cloud 9 and GitHub using skills they have already gained in previous units.
+In this unit students will be introduced to a new IDE called Cloud 9. They will then create a project using Cloud 9 and GitHub using skills they have already gained in previous units.
 
 <table>
 <tr>
