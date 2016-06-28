@@ -1,5 +1,4 @@
-#Unit 2: Project 1  
-#About Who?
+#Unit 2: Project 1 || About Who?
 ![image](https://i.imgur.com/UfBwSzcl.jpg)
 
 ##Scope
