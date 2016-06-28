@@ -2,7 +2,7 @@
 
 
 ##Scope
-In this session students will first go through a round of ice-breaker activities. They will then pair up to complete a [series of challenges](clues.MD) that will test their skills on topics covered in ScriptEd year 1. 
+In this session students will first go through a round of ice-breaker activities. They will then pair up to complete a [series of challenges](clues.md) that will test their skills on topics covered in ScriptEd year 1. 
 
 
 ##Estimated Completion Time
