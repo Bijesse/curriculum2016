@@ -3,7 +3,7 @@
 ![image](https://i.imgur.com/UfBwSzcl.jpg)
 
 ##Scope
-The project for this unit asks the student to create a webpage for someone else in their ScriptEd class. The students will use their knowledge of CSS and branding to create the best website for their friend. The students will push their project to GitHub and will finish the unit off with a three question [**exit ticket**](http://bit.ly/ScriptEdExit3). Results from the exit ticket can be found [here](https://docs.google.com/spreadsheets/d/1cgf-dvxk-yHiBugOTE1Sk8VDT4WsoXmAXbNDXhqytr8/edit?usp=sharing).
+The project for this unit asks the student to create a webpage for someone else in their ScriptEd class. The students will use their knowledge of CSS and branding to create the best website for their friend. The students will then push their project to GitHub.
 
 ##Estimated Completion Time
 This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
