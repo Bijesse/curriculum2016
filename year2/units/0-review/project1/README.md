@@ -10,7 +10,7 @@ No more than 120 minutes should be allocated to this project.
 
 ##Teacher Notes & Pro Tips
 * Require students to pair up with someone who is not in their school. Create a community within the class!
-* Print copies of the [clues worksheet](clues.MD) before class.
+* Print copies of the [clues worksheet](clues.md) before class.
 * Decide how you are going to keep score. Most teams use a whiteboard.
 * Have prizes ready. Candy is a fan-favorite.
 <br>
