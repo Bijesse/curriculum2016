@@ -15,7 +15,7 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project1" >Project 1 </a> </th>
-	<th align="left" colspan="2">This project asks students to complete a project that is unfinished using jQuery events. </th>
+	<th align="left" colspan="2">The project for this unit asks the student to create a webpage that includes text, a title, images and links. The students will push their project to GitHub </th>
 </tr>
 <tr>
 	<th align="center" colspan="3">Unit Challenge: hr.gs/unit1challenge </th>
