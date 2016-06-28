@@ -1,6 +1,5 @@
-#Unit 3: Project 1  
-#General Assembly Website Tutorial
-![Imgur](http://i.imgur.com/t1O7Zcj.jpg)
+#Unit 3: Project 1 ||General Assembly Tutorial
+![Imgur](http://i.imgur.com/t1O7Zcjm.jpg)
 
 ##Scope
 The project for this unit is a tutorial made by General Assembly. This tutorial is a self-guided set of step-by-step instructions that will reinforce student learning on concepts being taught in class.
