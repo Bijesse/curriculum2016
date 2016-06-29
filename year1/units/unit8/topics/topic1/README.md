@@ -1,4 +1,4 @@
-#Unit 6: Topic 1 || Cloud 9 and GitHub
+#Unit 8: Topic 1 || JavaScript Discovery
  ![Imgur](http://i.imgur.com/jN4HZ6x.png)
  
 <table>
@@ -8,8 +8,8 @@
 </tr>
 <tr>
 
-	<td>In lesson 1 students are introduced to Cloud 9. They will create a portfolio site in GitHub. They will fork and clone a repo from GitHub and edit it in Cloud 9. </td>
-	<td>In lesson 2 the students will continue to work on their portfolio. Then they will push their content back up to GitHub</td>
+	<td>In lesson 1 students are introduced to the projects they will build throughout the year. Afterwards they will complete an activity that uses pre-built functions </td>
+	<td>In lesson 2 the students will create a JavaScript environment called Tiny Turtle that will teach introductory JavaScript skills. This  project will conitune into the following session.</td>
 </tr>
 </table>
 
