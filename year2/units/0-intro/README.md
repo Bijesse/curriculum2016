@@ -1,4 +1,4 @@
-#Unit: Infomation Session 
+#Unit: Information Session 
 
 
 ##Scope
