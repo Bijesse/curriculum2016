@@ -6,11 +6,11 @@ Advanced Course
 
 | Time  | Unit | Topics/Skills | Description |
 |-------|:-------:|------|--------------|
-| 1 session | [Intro](units/) | Expectations set & Slack channel created | All advanced students will meet at a central location. An info session will be held by ScriptEd. Students will sign up for a Slack channel during this time. |
-| 3 sessions| [Review](units/0-review) | JS Types| Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
-| 1 session| [Tech Culture Day](units/) | Professional Skills| Staying involved in the Tech community. |
-| 2 sessions | [Portfolio](units/) | Bootstrap & GitHub Pages| Student will create a professional portfolio that will be hosted on GitHub pages. They will also add relevant projects to it |
+| 1 session | [Intro](units/0-intro) | Expectations set & Slack channel created | All advanced students will meet at a central location. An info session will be held by ScriptEd. Students will sign up for a Slack channel during this time. |
+| 3 sessions| [Review](units/1-review) | JS Types| Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
+| 2 sessions | [Website Redesign](units/) | Bootstrap & GitHub Pages| Student will take apart a website and give the homepage a redesign using Bootstrap. This project will be completed in pairs. |
 | 2 sessions | [Rock, Paper, Scissors](units/) | jQuery, JS Functions & contiionals | Students will first create a game that works functionally in the console. They will then create a webapp for their game.|
+| 1 session| [Tech Culture Day](units/) | Professional Skills| Googling 101, tech news, meetup & hackathon search|
 | 2 sessions | [JS Objects](units/5-JSobjects) | Objects| Student will create objects and call information from them. |
 | 2 sessions | [Giphy API](units/) | API, JSON, Dev Tools| Student will create a webapp using the Giphy API|
 | 2 sessions | [Foursquare API](units/) | API, JSON, Dev Tools| Student will create a webapp using the Foursquare API|
