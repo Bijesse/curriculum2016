@@ -1,14 +1,15 @@
-#Unit 7: Topic 1 || Mr. Potato Head
- ![Imgur](http://i.imgur.com/Vy06FW3.gif)
-  
+#Unit 6: Topic 1 || Cloud 9 and GitHub
+ ![Imgur](http://i.imgur.com/jN4HZ6x.png)
+ 
 <table>
 <tr>
 	<th>Lesson 1 (45 min)</th>
+	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
 
-	<td>In this project students are given a more detailed explanation of GitHub and its abilities. Then they are asked to work together to build a Mr. Potato Head  </td>
-
+	<td>In lesson 1 students are introduced to Cloud 9. They will create a portfolio site in GitHub. They will fork and clone a repo from GitHub and edit it in Cloud 9. </td>
+	<td>In lesson 2 the students will continue to work on their portfolio. Then they will push their content back up to GitHub</td>
 </tr>
 </table>
 
@@ -17,10 +18,10 @@
 
 | Objectives | Vocabulary |
 |-------|-------|
-| <ul>Students will be able to...<li> collaborate on a single project using GitHub.</li> <li>Create a Pull Request</li> </ul>  | <ul>  <li>Collaborate</li> <li>Fork</li> <li>Change</li><li>Push</li><li>Pull</li></ul> | 
+| <ul>Students will be able to...<li> Fork and clone a GitHub repo</li> <li>Authorize Cloud 9 to work alongside GitHub</li> </ul>  | <ul>  <li>IDE</li> <li>Cloud 9</li> <li>GitHub</li><li>Push</li><li>Fork</li><li>Clone</li></ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
-|<ul><li>Remember to fork the ScriptEd repo to your own GitHub before class!</li> <li>In large classes assign 1 body part to two students.</li><li>Be sure to clarify how a Mr. Potato Head works. Don't assume everyone knows the concept.</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1qlU80O5iLEBlFel9XmOaGRGyXcwlDYDarQCwCs8Bj1U/edit?usp=sharing">Slides: Lesson 1</a></li></ul> | 
-| <center>**Project:** Mr. Potato Head </center>| [Starter Code](https://github.com/ScriptEdcurriculum/Mr_Potato_Head)  |
+|<ul><li>Be silly in the first lesson!</li> <li>Do not spend time explaining the differences between jQuery and JavaScript. This will ocme later in the year but will cause confusion now.</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1s8PcznYmhRQ4DXHP_TFcu_uJaFNZOEiwAvCqyIE0aw0/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1s8PcznYmhRQ4DXHP_TFcu_uJaFNZOEiwAvCqyIE0aw0/edit#slide=id.g1468af6d85_0_0" target="_blank">Slides: Lesson 2</a></li></ul> | 
+| <center>**Project:** Personal Portfolio Site </center>| [Starter Code](https://github.com/ScriptEdcurriculum/Portfolio_Unit6)  |
 
 
 
