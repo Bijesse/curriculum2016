@@ -12,12 +12,12 @@ Year 1
 | 270 minutes | [**5**](units/unit5) | jQuery: show/hide, events, inputs, .val() | In this unit students are introduced to jQuery. jQuery is used as a tool for creating interactive websites that react to user actions. |
 | 90 minutes | [**6**](units/unit6) | Cloud9, Git, Multi-Page Sites| In this unit students will be introduced to a new IDE called Cloud 9. They will then create a project using Cloud 9 and GitHub using skills they have already gained in previous units. |
 | 90 minutes | [**7**](units/unit7) | GitHub Collaboration | In this unit the class will collaborate on a project using GitHub and Cloud 9.|
-| 180 minutes | [**8**](units/unit8) | JavaScript: Conditionals, Values & Variables| In this unit students |
-| 180 minutes | [**9**](units/unit9) | JavaScript: Pre-made Functions & Strings| In this unit students |
-| 180 minutes | [**10**](units/unit10) | JavaScript: Arrays| In this unit students |
-| 180 minutes | [**11**](units/unit11) | JavaScript: Loops (for & forEach)| In this unit students |
-| 180 minutes | [**12**](units/unit12) | JavaScript: Defining Functions|In this unit students |
-
+| 180 minutes | [**8**](units/unit8) | JavaScript Introduction | In this unit the students are in given a soft introduction to JavaScript. They will be making **Function** calls to manipulate content on a webpage.
+| 180 minutes | [**9**](units/unit9) | JavaScript: Conditionals, Variables, Strings| In this unit students are introduced to **Conditional Statements, Vairables & Strings** Through the course of making two games that ask the user to guess a certain word or number.|
+| 180 minutes | [**10**](units/unit10) | JavaScript: Iteration| In this unit students combine their knowledge of **Variables & Functions** to revisit Tiny Turtle to define their own functions. After this they will create new functions for mini-projects.|
+| 180 minutes | [**11**](units/unit11) | JavaScript: Math & Arrays| In this unit students are introduced to the JavaScript **Math library** in the form of a dice simulation game. After that they will be using **Arrays** to allow their project to become more sophisticated. |
+| 180 minutes | [**12**](units/unit12) | JavaScript: Animations and Collisions|In this unit students are introduced to the concept of game development as the begin to program simple **Animations & Collision Detections** |
+| 270 minutes | [**13**](units/unit13) | Capstone Project |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. |
 
 
 ####Misc Lessons, Games and Projects
