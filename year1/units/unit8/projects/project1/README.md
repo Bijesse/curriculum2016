@@ -16,7 +16,7 @@ This project should take 45 minutes to complete. Project may take less or more t
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://popcode.org/?gist=669fd43006daa8793b68e66160371606) | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit8/project1)|
+|[Starter Code](github.com/ScriptEdcurriculum/TinyTurtleDirections) | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit8/project1)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1DQLzZokIkRzK9LYB5Zp6VmVGDXdaCd6NUt4n7XMwZLQ/edit?usp=sharing)
 
