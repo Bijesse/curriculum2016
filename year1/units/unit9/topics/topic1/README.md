@@ -1,5 +1,5 @@
-#Unit 8: Topic 1 || JavaScript Discovery
- ![Imgur](http://i.imgur.com/4soy0jZm.png)
+#Unit 9: Topic 1 || If, Variables & Strings
+ ![Imgur](http://i.imgur.com/6cwaNWa.jpg)
  
 <table>
 <tr>
@@ -8,8 +8,8 @@
 </tr>
 <tr>
 
-	<td>In lesson 1 students are introduced to the projects they will build throughout the year. Afterwards they will complete an activity that uses pre-built functions </td>
-	<td>In lesson 2 the students will create a JavaScript environment called Tiny Turtle that will teach introductory JavaScript skills. This  project will conitune into the following session.</td>
+	<td>In lesson 1 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have. </td>
+	<td>In lesson 2 the students will create a mini project that uses varibales. They will be working with Strings throughout this practice too.</td>
 </tr>
 </table>
 
@@ -18,9 +18,9 @@
 
 | Objectives | Vocabulary |
 |-------|-------|
-| <ul>Students will be able to...<li> set up a coding environment.</li> <li>write a function call with multiple parameters.</li> </ul>  | <ul>  <li>JavaScript</li> <li>Function</li> <li>Parameter</li></ul> | 
+| <ul>Students will be able to...<li> create a simple conditional statement using "if"</li> <li>declare a variable</li> </ul>  | <ul>  <li>IF statement</li> <li>Variable</li> <li>Condition</li></ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
-|<ul><li>HTML is the Skeleton, CSS is the skin and clothing, JS is the muscles</li> <li>If you are having a hard time figuring out which command you want to tell Tiny Turtle to go, stand up and act out the commands in real life.</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1EJ1Igc5D6mKxIS-SNWZgJb48GP3X7UJ76NIewVv3jgA/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1EJ1Igc5D6mKxIS-SNWZgJb48GP3X7UJ76NIewVv3jgA/edit#slide=id.g114f8b6caf_0_63" target="_blank">Slides: Lesson 2</a></li></ul> | 
+|<ul><li>This unit only introduces "If" more complicated conditions including "else" come in the next topic.</li> <li>Students will be using Popcode for activities within this topic. It is important to remind them that this is for prototyping and our projects are still being completed in Cloud 9</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1lNSWilos9yjpj3dOUpr3Uhqk1y1X2e-gUIYRgdSQXwE/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1lNSWilos9yjpj3dOUpr3Uhqk1y1X2e-gUIYRgdSQXwE/edit#slide=id.g11512f67a7_0_57" target="_blank">Slides: Lesson 2</a></li></ul> | 
 
 
 
