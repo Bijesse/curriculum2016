@@ -1,27 +1,27 @@
-#Unit 8: Project 1 || Tiny Turtle
+#Unit 9: Project 1 || Password Guesser
 
 
 ##Scope
-This project has the students complete their Tiny Turtle project to create shapes from procedural commands made to the turtle in the form of functions.
-
+This project has the students combine their knowledge of variables, strings and conditionals with previously learned skills to create a word guessing game.
 ##Estimated Completion Time
-This project should take 45 minutes to complete. Project may take less or more time depending on students' needs.  
+This project should take 135 minutes to complete. Project may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
-* This project is being continued from Lesson 2 of this unit.
-* The students are making function calls in Tiny Turtle they are not creating their own functions quite yet.
-* Ask students to stand up and "Play Turtle" when they are having issues writing commands for Tiny Turtle.
+* Encourage students to look into old Gists for similar code that can be helpful.
+* This project will likely be very challenging. It is possible at least one extra mini-lesson will have to be given to the class while building this project. 
+* Setting up the environment will take time. Practice makes perfect!
+* Paired programming is awesome! Provide guidance on how to paired program when necessary.
 
 <br>
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/TinyTurtleDirections) | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit8/project1)|
+|This project does not contain starter code. | [Solution Code]()|
 
-##[Google Slides](https://docs.google.com/presentation/d/1DQLzZokIkRzK9LYB5Zp6VmVGDXdaCd6NUt4n7XMwZLQ/edit?usp=sharing)
+##[Google Slides](https://docs.google.com/a/scripted.org/presentation/d/1CF_SONTyu3AnP98J7WcwHtU9_vUKRTYZlZ6yn8POZk4/edit?usp=sharing)
 
 ##Project Extensions
-If students complete this project early, they should be encouraged to make a variety of shapes with Tiny Turtle. Start with a hexagon!
+If students complete this project early, they should be encouraged to add CSS. They may also add a feature that says "Nope, that is not the Secret Word... Try again" if the user is incorrect.
 
 
 
