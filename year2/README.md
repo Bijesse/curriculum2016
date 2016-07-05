@@ -28,7 +28,7 @@ Advanced Course
 |  [Commenting](https://docs.google.com/presentation/d/1s7hDP4IZSXYTwa2vAKLHgzXgZW0gDpCPHp6JK3nqczo/edit?usp=sharing)  | In this project the students are asked to read and create comments meaningfully for HTML, CSS and JavaScript|
 |  [CRUD Operations](../miscLessons/commandLine)  | In this project the students are taught how to navigate around their device (or IDE) using command line operations Concepts taugh include `rm, mv, ls, pwd, >, mkdir` |
 |  [Typing](https://docs.google.com/presentation/d/18-1xt6VBbh5WM6afUbYJOWO2Gd9hgTaMFhZOz6gV6qc/edit?usp=sharing)  | In this lesson the students are given type based games that will improve typing skills and speed|
-|  [Programming with Scratch](../miscLessons/ScratchUnit)  | This resourse is a unit of lessons that culminates into a "Madlibs" project. In this unit students use MIT's Scratch to learn programming concepts with a well known block-based programming language.|   
+|  [Programming with Scratch](../miscLessons/scratchUnit)  | This resourse is a unit of lessons that culminates into a "Madlibs" project. In this unit students use MIT's Scratch to learn programming concepts with a well known block-based programming language.|   
 
 ![Imgur](http://i.imgur.com/OCpzQ2C.png)
 This calendar is a recommended schedule to be followed in ScriptEd courses.
