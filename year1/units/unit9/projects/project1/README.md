@@ -3,6 +3,7 @@
 
 ##Scope
 This project has the students combine their knowledge of variables, strings and conditionals with previously learned skills to create a word guessing game.
+
 ##Estimated Completion Time
 This project should take 135 minutes to complete. Project may take less or more time depending on students' needs.  
 
@@ -16,7 +17,7 @@ This project should take 135 minutes to complete. Project may take less or more 
 
 | Starter code | Solution Code |
 |-------|-------|
-|This project does not contain starter code. | [Solution Code]()|
+|This project does not contain starter code. | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit9/project1) (private repo)|
 
 ##[Google Slides](https://docs.google.com/a/scripted.org/presentation/d/1CF_SONTyu3AnP98J7WcwHtU9_vUKRTYZlZ6yn8POZk4/edit?usp=sharing)
 
