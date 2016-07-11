@@ -22,7 +22,7 @@ In this unit students are introduced to **Conditional Statements, Vairables & St
 <tr>
 	<td><a href="topics/topic2">2 Else</a></td>
 	<td>In lesson 1 students are introduced to the concept of "else". They will create conditional statements with multiple outcomes.  </td>
-	<td>In lesson 2 the students will </td>
+	<td><strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1 </td>
 </tr>
 <tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>
