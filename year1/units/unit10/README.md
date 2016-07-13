@@ -8,7 +8,7 @@ In this unit students combine their knowledge of **Variables & Functions** to re
 	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
-	<td><a href="topics/topic1">1 </a></td>
+	<td><a href="topics/topic1">1 Turtle Functions and Parameters</a></td>
 	<td>In lesson 1 students are re-introduced to Tiny Turtle as a way to create their own shapes with the interface. They will create repeatable actions using functions.</td>
 	<td>In lesson 2 the students will be asked to create functions with parameters in the Tiny Turtle Environment. </td>
 </tr>
@@ -18,7 +18,7 @@ In this unit students combine their knowledge of **Variables & Functions** to re
 </tr>
 
 <tr>
-	<td><a href="topics/topic2">2 </a></td>
+	<td><a href="topics/topic2">2 Functions and Parameters </a></td>
 	<td>In lesson 1 students </td>
 	<td></td>
 </tr>
