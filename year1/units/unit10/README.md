@@ -19,8 +19,8 @@ In this unit students combine their knowledge of **Variables & Functions** to re
 
 <tr>
 	<td><a href="topics/topic2">2 Functions and Parameters </a></td>
-	<td>In lesson 1 students </td>
-	<td></td>
+	<td>In lesson 1 students are introduced to the console. They are taught `console.log` as a tool for debugging and can navigate the developer tools.</td>
+	<td>In lesson 2 the students will create functions using plain JavaScript. They will break out of the Tiny Turtle environment. </td>
 </tr>
 <tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>
