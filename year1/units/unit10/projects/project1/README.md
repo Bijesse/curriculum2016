@@ -17,10 +17,10 @@ In this project students are tasked to create a function with two parameters tha
 |-------|-------|
 |[Starter Code](https://github.com/ScriptEdcurriculum/tinyTurtleUnit10Starter) | [Solution Code](https://github.com/ScriptEdcurriculum/tinyTurtleUnit10Starter) (private repo)|
 
-##[Google Slides](https://docs.google.com/a/scripted.org/presentation/d/1CF_SONTyu3AnP98J7WcwHtU9_vUKRTYZlZ6yn8POZk4/edit?usp=sharing)
+
 
 ##Project Extensions
-If students complete this project early, they should be encouraged to add CSS. They may also add a feature that says "Nope, that is not the Secret Word... Try again" if the user is incorrect.
+If students complete this project early, they can be challenges to add a third parameter called `sides` that will generate the amount of sides needed for a shape.
 
 
 
