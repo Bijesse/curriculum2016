@@ -14,7 +14,7 @@ In this unit students combine their knowledge of **Variables & Functions** to re
 </tr>
 <tr>
 	<td><strong><a href="projects/project1">Project 1</a></strong></td>
-	<td colspan="2">This project has the students .</td>
+	<td colspan="2"><strong>Project 1 is completed during lesson 2. Therefore no extra time needs to be allotted.</strong> In this project students are tasked to create a function with two parameters that can draw any shape the user asks.</td>
 </tr>
 
 <tr>
