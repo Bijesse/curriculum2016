@@ -25,7 +25,7 @@ These programs must be completed in either jsBin or cloud9.
 | 1| hello.js|  ...prints "Hello, World!" in the console. | 1 |
 | 2| helloName.js |...asks for your name in an alert window then prints a message saying hello to you. |3 |
 | 3 | age.js | ...asks for your name and age then prints out how old you are in a string. | 3 | 
-| 10 | roman.js  | ...can convert any integer from 1-1000 into a roman numeral.| 10 |  
+| 10 | roman.js  | ...can convert any integer from 1-100 into a roman numeral.| 15 |  
 
 
 ####JavaScript: Conditionals
@@ -69,7 +69,7 @@ These programs must be completed in either jsBin or cloud9.
 | 1 | Hello| ...prints `hello` on a webpage using only jQuery | 2 | 
 | 2 | Hello Name | ...asks the user for their name in an alert window then prints a greeting to you in a p tag on the page  | 4 | 
 | 3 |  Clicking | ...create a page that when a user clicks on a div tag it will hide from site.  | 4 | 
-| 4 | Hello Name Input | ...asks the four their name in a input field then prints a greeting to you in a p tag on the page after they click a button  | 10 | 
+| 4 | Hello Name Input | ...asks the user for their name in a input field then prints a greeting to you in a p tag on the page after they click a button  | 10 | 
 
 ####GitHub
 
