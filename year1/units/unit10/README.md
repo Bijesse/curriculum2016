@@ -23,13 +23,12 @@ In this unit students combine their knowledge of **Variables & Functions** to re
 	<td>In lesson 2 the students will create functions using plain JavaScript. They will break out of the Tiny Turtle environment. </td>
 </tr>
 <tr>
+	<th align="center" colspan="3">Unit Challenge: hr.gs/unit10challenge </th>
+</tr>
+<tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>
 	<td colspan="2">This project asks the students to create a 4-function calculator using JavaScript Functions. </td>
 </tr>
-<tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit10challenge </th>
-</tr>
-
 </table>
 
 
