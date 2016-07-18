@@ -1,4 +1,4 @@
-#Unit 9: Project 2 || Calcultor
+#Unit 10: Project 2 || Calcultor
 
 
 ##Scope
@@ -15,9 +15,9 @@ This project should take 45 minutes to complete. Project may take less or more t
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](starter_code) | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit10/project2) (private repo)|
+|[Starter Code](https://github.com/ScriptEdcurriculum/calculatorStarterCode) | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit10/project2) (private repo)|
 
-##[Google Slides](https://docs.google.com/presentation/d/1yzZdux-cRBL9cwGS49WwOfbdivNPI0TOvf_6yx1FF9w/edit#slide=id.g11512f67a7_0_57)
+##[Google Slides](https://docs.google.com/presentation/d/1fUpLevnu9rBMeFMEdpxlXRNk6yjlaVusHpAggzJjWJo/edit?usp=sharing)
 
 ##Project Extensions
 If students complete this project early, they should be encouraged to...
