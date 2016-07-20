@@ -8,7 +8,7 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
-	<td><a href="topics/topic1">1 Jeopardy an Math library</a></td>
+	<td><a href="topics/topic1">1 Jeopardy & Math library</a></td>
 	<td>In lesson 1 students the class will play a game of coding Jeopardy! Lots of fun and team building.</td>
 	<td>In lesson 2 the students will be asked to create a random number generator using the JavaScript Math library. </td>
 </tr>
