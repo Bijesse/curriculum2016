@@ -1,27 +1,29 @@
-#Unit 10: Project 1 || Turtle functions
+#Unit 11: Project 1 || Dice Simulator
 
 
 ##Scope
-In this project students are tasked to create a function with two parameters that can draw any shape the user asks.
+This project asks the students to create an app that simulates two dice rolling. It requires images to appear on the page that resemble two dies. 
 
 ##Estimated Completion Time
-<strong>Project 1 is completed during lesson 2. Therefore no extra time needs to be allotted.</strong> 
+This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
-* The Tiny Turtle Library requires canvas to be in the head of the page. Do not manipulate this.
-
+* There are many ways to solve this project. The attached solution code provides a way to do it with the skills that have been taught thus far.
+* Students are asked to work in pairs on this project. The expectation is to collaborate in Cloud 9. However, the teacher may challenge students to collaborate using GitHub pull requests.
 
 <br>
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/tinyTurtleUnit10Starter) | [Solution Code](https://github.com/ScriptEdcurriculum/tinyTurtleUnit10Starter) (private repo)|
+|[Starter Code](https://github.com/ScriptEdcurriculum/diceGameStarterCode) | [Solution Code]() (private repo)|
 
-
+##[Google Slides](https://docs.google.com/presentation/d/150mhY3dDnlskIiHNOAmiEu681EU_vBXQ_KwwP0X4H7U/edit#slide=id.g12ee5b58a7_1_0)
 
 ##Project Extensions
-If students complete this project early, they can be challenges to add a third parameter called `sides` that will generate the amount of sides needed for a shape.
+If students complete this project early, they should be encouraged to...
 
+* Add interesting CSS to this project
+* Create an animation image/gif that looks like dice rolling.
 
 
 
