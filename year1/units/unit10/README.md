@@ -1,4 +1,4 @@
-#Unit 10: JavaScript: Iteration
+#Unit 10: JavaScript: Functions
 
 In this unit students combine their knowledge of **Variables & Functions** to revisit Tiny Turtle to define their own functions. After this they will create new functions for mini-projects.
 <table>

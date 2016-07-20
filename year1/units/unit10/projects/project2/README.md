@@ -1,4 +1,4 @@
-#Unit 10: Project 2 || Calcultor
+#Unit 10: Project 2 || Calculator
 
 
 ##Scope
