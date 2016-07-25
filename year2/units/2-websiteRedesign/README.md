@@ -16,7 +16,7 @@ This unit should take 2 sessions to complete. Project may take less or more time
 
 | Starter code | Solution Code |
 |-------|-------|
-| This project does not contain any starter code.| [Example Solution](starterCode)|
+| This project does not contain any starter code.| [Example Solution](https://cdn.rawgit.com/Sheng0o0/redesign-weather.com/master/index.html)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1WJ4IBXeqAGkI6mhQIs6oWmMDOUtYgcb5h7j9zSy7qh4/edit?usp=sharing)
 
