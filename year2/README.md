@@ -12,9 +12,9 @@ Advanced Course
 | 1 session| [Portfolio](units/) | Professionalism| In this session students will create a professional portfoilio in which they can upload all their projects to.|
 | 2 sessions | [Rock, Paper, Scissors](units/4-RPS) | jQuery, Math, JS Functions & conditionals | Students will first create a Rock, Paper, Scissors game that works functionally in the console. They will then create a webapp for their game using click events.|
 | 2 sessions | [JS Objects](units/5-JSobjects) | Objects| Student will create objects and call information from them. |
-| 2 sessions | [Giphy API](units/) | API, JSON, Dev Tools| Student will create a webapp using the Giphy API|
-| 2 sessions | [Foursquare API](units/) | API, JSON, Dev Tools| Student will create a webapp using the Foursquare API|
-| 1 session| [Tech Culture Day](units/) | Professional Skills| Mock Interview and Staying involved in the Tech community. |
+| 2 sessions | [Giphy API](units/6-giphyAPI) | API, JSON, Dev Tools| Student will create a webapp using the Giphy API|
+| 2 sessions | [Foursquare API](units/7-FoursquareAPI) | API, JSON, Dev Tools| Student will create a webapp using the Foursquare API|
+| 1 session| [Tech Culture Day](units/8-techDay) | Professional Skills| What to expect in a technical interview and Staying involved in the Tech community. |
 | 5-8 sessions | [Entreprenuer](units/) | Project management| Students will be creating their own product in small teams. |
 
 ####Misc Lessons, Games and Projects
