@@ -15,7 +15,7 @@ Advanced Course
 | 2 sessions | [Giphy API](units/6-giphyAPI) | API, JSON, Dev Tools| Student will create a webapp using the Giphy API|
 | 2 sessions | [Foursquare API](units/7-FoursquareAPI) | API, JSON, Dev Tools| Student will create a webapp using the Foursquare API|
 | 1 session| [Tech Culture Day](units/8-techDay) | Professional Skills| What to expect in a technical interview and Staying involved in the Tech community. |
-| 5-8 sessions | [Entreprenuer](units/) | Project management| Students will be creating their own product in small teams. |
+| 5-8 sessions | [Entreprenuer](units/9-entrepreneur) | Project management| Students will be creating their own product in small teams. |
 
 ####Misc Lessons, Games and Projects
 
