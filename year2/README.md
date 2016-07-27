@@ -9,7 +9,7 @@ Advanced Course
 | 1 session | [Intro](units/0-intro) | Expectations set & Slack channel created | All advanced students will meet at a central location. An info session will be held by ScriptEd. Students will sign up for a Slack channel during this time. |
 | 3 sessions| [Review](units/1-review) | JS Types| Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
 | 2 sessions | [Website Redesign](units/2-websiteRedesign) | Bootstrap & GitHub Pages| Student will take apart a website and give the homepage a redesign using Bootstrap. This project will be completed in pairs. |
-| 1 session| [Portfolio](units/) | Professionalism| In this session students will create a professional portfoilio in which they can upload all their projects to.|
+| 1 session| [Portfolio](units/3-portfolio) | Professionalism| In this session students will create a professional portfoilio in which they can upload all their projects to.|
 | 2 sessions | [Rock, Paper, Scissors](units/4-RPS) | jQuery, Math, JS Functions & conditionals | Students will first create a Rock, Paper, Scissors game that works functionally in the console. They will then create a webapp for their game using click events.|
 | 2 sessions | [JS Objects](units/5-JSobjects) | Objects| Student will create objects and call information from them. |
 | 2 sessions | [Giphy API](units/6-giphyAPI) | API, JSON, Dev Tools| Student will create a webapp using the Giphy API|
