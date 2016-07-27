@@ -15,7 +15,7 @@ This project should take 90 minutes to complete. Project may take less or more t
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/diceGameStarterCode) | [Solution Code]() (private repo)|
+|[Starter Code](https://github.com/ScriptEdcurriculum/diceGameStarterCode) | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit11/project1) (private repo)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/150mhY3dDnlskIiHNOAmiEu681EU_vBXQ_KwwP0X4H7U/edit#slide=id.g12ee5b58a7_1_0)
 
