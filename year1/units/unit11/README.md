@@ -19,21 +19,22 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 
 <tr>
 	<td><a href="topics/topic2">2 Arrays </a></td>
-	<td>In lesson 1  </td>
-	<td>In lesson 2  </td>
-</tr>
-<tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit11challenge </th>
+	<td>In lesson 1 the students are introduced to the concept of arrays in order to store multiple pieces of information.</td>
+	<td>In lesson 2  the students are introduced to project 2 which requires them to combine their knowledge of the Math Library and Arrays.</td>
 </tr>
 <tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>
-	<td colspan="2">This project asks the students to create a hangman project using arrays to store values. </td>
+	<td colspan="2">This project requires the students to combine their knowledge of the Math Library and Arrays. </td>
+	<tr>
+	<th align="center" colspan="3">Unit Challenge: hr.gs/unit11challenge </th>
+</tr>
 </tr>
 </table>
 
 
 ##Extra Resources, Challenges and Projects
 
+* Project Idea: Magic 8 ball app
 
 [Computer Science Standards Alignment](csStandards.md)
 
