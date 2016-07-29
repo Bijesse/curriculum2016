@@ -38,7 +38,7 @@ Year 1
 This calendar is a recommended schedule to be followed in ScriptEd courses.
 
 ####Resources
-[5 day per week class resources]()  
+[5 day per week class resources](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing)  
 
 
 <br>
