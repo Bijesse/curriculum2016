@@ -1,4 +1,4 @@
-#Unit 0: Routines and Introductions
+#Unit 0: Routines & Introductions
 
 In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.
 
