@@ -11,7 +11,7 @@ In this unit the class will collaborate on a project using GitHub and Cloud 9.
 <tr>
 	<td><a href="topics/topic1">1 JavaScript Discovery</a></td>
 	<td>In lesson 1 students are introduced to the projects they will build throughout the year. Afterwards they will complete an activity that uses pre-built functions </td>
-	<td>In lesson 2 the students will create a JavaScript environment called Tiny Turtle that will teach introductory JavaScript skills. This  project will conitune into the following session.</td>
+	<td>In lesson 2 the students will create a JavaScript environment called Tiny Turtle that will teach introductory JavaScript skills. This  project will continue into the following session.</td>
 </tr>
 <tr>
 	<td><strong><a href="projects/project1">Project 1</a></strong></td>
