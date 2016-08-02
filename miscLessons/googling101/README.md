@@ -14,7 +14,7 @@ In this lesson the students will learn how to get the most out of their Google s
 |-------|-------|
 | <ul>Students will be able to...<li> optimize their searches when working with code.</li> <li>provide examples and define a search engine</li> </ul>  | <ul> <li>Search Engine</li> <li>Browser</li> <li>Optimize</li> </ul> | 
 | <center> **Slideshow** </center> |<center> **Exit Ticket** </center> |
-| **[Annotated Google Slides](https://docs.google.com/presentation/d/1U7rItParhs_Aity0Rg-iV7CX3C0gWGCaicQSHn8ydag/edit?usp=sharing)**| <ul><li>[**bit.ly/ScriptEdExit1**](http://bit.ly/ScriptEdExit1) Completed at the end of project 1.</li> <li>[Exit ticket results](https://docs.google.com/spreadsheets/d/1q--aEbMs2JWOZhFlYlv-TzEVOOkVrjEP25WcFj92nL4/edit#gid=313397747).</li> </ul> | 
+| **[Annotated Google Slides](https://docs.google.com/presentation/d/1U7rItParhs_Aity0Rg-iV7CX3C0gWGCaicQSHn8ydag/edit?usp=sharing)**| <ul><li>[**exit ticket**](https://docs.google.com/forms/d/e/1FAIpQLSd7DGKXQQoS6YCwRVkzc__6jtdnjjSfifsLf0AOCw6eUO4ZAw/viewform) Completed at the end of project 1.</li> <li>[Exit ticket results](https://docs.google.com/a/scripted.org/forms/d/1kFKXlmxdRa3JTjrqFF-lkTh7Di0PeIDUtpnId0zkrU0/edit#responses).</li> </ul> | 
 
 
 
