@@ -8,7 +8,7 @@
 </tr>
 <tr>
 	<td>In lesson 1 students will create a wepage with four HTML lists  </td>
-	<td> <strong>N/A</strong> The teacher may teach a <a href="../../../miscLessons">misc lesson</a> of their choosing. </td>
+	<td> <strong>N/A</strong> The teacher may teach a misc lesson (found on last page) of their choosing or move straight to topic 2. </td>
 </tr>
 </table>
 

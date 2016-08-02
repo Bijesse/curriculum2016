@@ -20,14 +20,14 @@ In this unit students will learn how to manipulate the look and feel of a webpag
 <tr>
 	<td align="left"> <a href="topics/topic2">2 Wireframing </a> </td>
 	<td>In lesson 1 the students will create their first wireframe. This will allow them to get started on the final project of this unit.</td>
-	<td> This topic does not have a second lesson. Instead, students will get started on <a target="_blank" href="../../projects/project2"> Unit 4 Project 2</a> </td>
+	<td> This topic does not have a second lesson. Instead, students will get started on <a target="_blank" href="https://github.com/Bijesse/curriculum2016/tree/master/year1/units/unit4/projects/project2"> Unit 4 Project 2</a> </td>
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project2" >Project 2 </a> </th>
-	<th align="left" colspan="2">This project asks the students to work in pairs to compete in  the online design competition called <a href="https://www.csszengarden.com/">CSS Zen Garden</a>. </th>
+	<th align="left" colspan="2">This project asks the students to work in pairs to compete in  the online design competition called <a href="www.csszengarden.com/">CSS Zen Garden</a>. </th>
 </tr>
 <tr>
-	<th align="center" colspan="3">Unit Challenge: bit.ly/ScriptEdExit5 </th>
+	<th align="center" colspan="3">Unit Challenge: hr.gs/unit4challenge </th>
 </tr>
 
 </table>

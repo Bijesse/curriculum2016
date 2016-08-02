@@ -15,7 +15,7 @@ This project should take 90 minutes to complete. Project may take less or more t
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://popcode.org/?gist=e951f76e8c662a25803175769e10bfbf) |  [Solution Code](https://gist.github.com/Bijesse/3106585dc2c8191d3e6d7e8401cbf804)|
+|[Starter Code](https://popcode.org/?gist=e951f76e8c662a25803175769e10bfbf) |  [Solution Code](https://gist.github.com/Bijesse/3106585dc2c8191d3e6d7e8401cbf804)(Private Repo)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1rCVCIqXSNU7N2zfZuuD6APR5BQMoqs4rKFL5dz4EAmw/edit?usp=sharing)
 
