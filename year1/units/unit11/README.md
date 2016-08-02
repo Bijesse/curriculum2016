@@ -24,7 +24,7 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 </tr>
 <tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>
-	<td colspan="2">This project requires the students to combine their knowledge of the Math Library and Arrays. </td>
+	<td colspan="2">This project requires the students to combine their knowledge of the Math Library and Arrays to create a webapp that will randomly select someone from class. </td>
 	<tr>
 	<th align="center" colspan="3">Unit Challenge: hr.gs/unit11challenge </th>
 </tr>
