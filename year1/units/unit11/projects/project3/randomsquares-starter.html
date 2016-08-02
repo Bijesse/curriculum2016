@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2016 by anonymous (http://jsbin.com/toxudewamu/2/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+<meta charset=utf-8 />
+  <script>
+    function setColor(row, col, color) {
+      var cell = $('#t')[0].rows[row].cells[col];
+      cell.style.backgroundColor = color;
+    }
+  </script>
+<title>JS-Grid</title>
+<style id="jsbin-css">
+#t {
+  border-collapse: collapse;
+}
+#t td {
+  border: 1px solid blue;
+  width: 1em;
+  height: 1em;
+}
+
+.intro {
+  font-family: arial;
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
+.code {
+  color: green;
+  font-family: monospace;
+  font-weight: bold;
+}
+div.code {
+  border: 1px solid green;
+  padding: 3px;
+  padding-left: 1em;
+}
+</style>
+</head>
+<body>
+  <h2>Fun on a grid</h2>
+  <div class="intro">You get a function:
+    <div class="code">
+    setColor(row, column, color);
+    </div>
+    For a given row and column (both numbered from 0), it colors the corresponding cell. E.g. try
+    <span class="code">
+    setColor(2, 0, "red");
+    </span>
+  </div>
+  
+
+  <table id="t">
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  </table>
+<script id="jsbin-javascript">
+/* Exercise 1
+Write code that randomly returns a number between 0 and 10 (inclusive)
+*/
+function random0to10() {
+  // TODO
+}
+
+
+/* Exercise 
+You are given a variable, n.
+Write code that randomly returns a number between 0 and n (inclusive)
+*/
+var n = 5;
+function random0toN(n) {
+  // TODO
+}
+
+
+/* Exercise 
+Write code that randomly returns one of two colors-- red or blue.
+You can use Math.random, or you can use the code you wrote in your last exercise (have it return either 0 or 1).
+*/
+/* OPTIONAL: Use code from previous projects! */
+function randomColorRB() {
+  // TODO
+}
+
+
+/* Exercise 
+Write code that randomly returns one of three colors-- red, blue, or green.
+You can use Math.random, or you can use the code you wrote in your last exercise (have it return either 0 or 1).
+*/
+/* OPTIONAL: Use code from previous projects! */
+function randomColorRGB() {
+  // TODO
+}
+
+
+/* Exercise
+Use the code from the last few exercises to randomly color 5 squares in the grid.
+Run your code a few different times and check out the results.
+Hint: You'll need to call setColor inside randomColorGrid!
+*/
+function randomColorGrid() {
+  // TODO
+}
+
+/* Exercise
+[Note: students might not know loops yet]
+Use loops to randomly color every square in the grid
+*/
+
+</script>
+</body>
+</html>
