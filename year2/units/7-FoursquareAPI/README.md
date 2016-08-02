@@ -15,7 +15,7 @@ This unit should take 2 sessions to complete. Project may take less or more time
 
 | Starter code | Solution Code |
 |-------|-------|
-|This project does not contain starter code | [Example Solution](starterCode)|
+|This project does not contain starter code | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year2/7-FoursquareAPI)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1ialkqyBF_Ft_CvAi4rBjIsFvUvu8x4mRpuYDZs0nLA0/edit?usp=sharing)
 

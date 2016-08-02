@@ -16,7 +16,7 @@ This unit should take 120 minutes to complete. Project may take less or more tim
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](starterCode) | |
+|[Starter Code](https://github.com/ScriptEdcurriculum/JSobjects_Adv)| |
 
 ##[Google Slides](https://docs.google.com/presentation/d/1esamRfyAFhl2quGDxt3-NRvHLHwhFad9g-sYucYJlFg/edit?usp=sharing)
 

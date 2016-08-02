@@ -17,7 +17,7 @@ No more than 120 minutes should be allocated to this project.
 
 | Starter code | Solution Code |
 |-------|-------|
-|This project does not contain any starter code | [Solution Code]()|
+|This project does not contain any starter code | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/blob/master/year2/1-review/clueSolution.md)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1esamRfyAFhl2quGDxt3-NRvHLHwhFad9g-sYucYJlFg/edit?usp=sharing)
 
