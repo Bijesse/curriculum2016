@@ -22,7 +22,7 @@ No more than 120 minutes should be allocated to this project.
 ##[Google Slides](https://docs.google.com/presentation/d/1esamRfyAFhl2quGDxt3-NRvHLHwhFad9g-sYucYJlFg/edit?usp=sharing)
 
 ##Project Extensions
-There are pleanty of challenges for this project that students completing early should not be an issue. It is likely now group will complete all the tasks.
+There are pleanty of challenges for this project that students completing early should not be an issue. It is likely no group will complete all the tasks.
 
 
 
