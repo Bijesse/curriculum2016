@@ -20,7 +20,7 @@
 |-------|-------|
 | <ul>Students will be able to...<li> Fork and clone a GitHub repo</li> <li>Authorize Cloud 9 to work alongside GitHub</li> </ul>  | <ul>  <li>IDE</li> <li>Cloud 9</li> <li>GitHub</li><li>Push</li><li>Fork</li><li>Clone</li></ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
-|<ul><li>Be silly in the first lesson!</li> <li>Do not spend time explaining the differences between jQuery and JavaScript. This will ocme later in the year but will cause confusion now.</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1s8PcznYmhRQ4DXHP_TFcu_uJaFNZOEiwAvCqyIE0aw0/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1s8PcznYmhRQ4DXHP_TFcu_uJaFNZOEiwAvCqyIE0aw0/edit#slide=id.g1468af6d85_0_0" target="_blank">Slides: Lesson 2</a></li></ul> | 
+|<ul><li>Be silly in the first lesson!</li> <li>Do not spend time explaining the differences between jQuery and JavaScript. This will come later in the year but will cause confusion now.</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1s8PcznYmhRQ4DXHP_TFcu_uJaFNZOEiwAvCqyIE0aw0/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1s8PcznYmhRQ4DXHP_TFcu_uJaFNZOEiwAvCqyIE0aw0/edit#slide=id.g1468af6d85_0_0" target="_blank">Slides: Lesson 2</a></li></ul> | 
 | <center>**Project:** Personal Portfolio Site </center>| [Starter Code](https://github.com/ScriptEdcurriculum/Portfolio_Unit6)  |
 
 
