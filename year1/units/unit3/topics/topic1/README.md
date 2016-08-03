@@ -16,8 +16,8 @@
 
 | Objectives | Vocabulary |
 |-------|-------|
-| <ul>Students will be able to...<li> describe the difference between an ordered and unordered list</li> <li>Create a variety of HTML lists</li> </ul>  | <ul> <li>OL</li> <li>UL</li> <li>Nesting</li></ul> | 
+| <ul>Students will be able to...<li> Describe the difference between an ordered and unordered list</li> <li>Create a variety of HTML lists</li> </ul>  | <ul> <li>OL</li> <li>UL</li> <li>Nesting</li></ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
-|<ul><li>Lists are like sandwiches! the `<li>` is the contents of the sandwich.</li></ul>| [Slides: Part 1](https://docs.google.com/presentation/d/1nOUO56S9smasNMTusVWs9kCCg4DgrKDc1GLwkFx-OUQ/edit?usp=sharing) | 
+|<ul><li>Lists are like sandwiches! The `<li>` is the contents of the sandwich.</li></ul>| [Slides: Part 1](https://docs.google.com/presentation/d/1nOUO56S9smasNMTusVWs9kCCg4DgrKDc1GLwkFx-OUQ/edit?usp=sharing) | 
 
 
