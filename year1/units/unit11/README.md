@@ -16,6 +16,10 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 	<td><strong><a href="projects/project1">Project 1</a></strong></td>
 	<td colspan="2">This project asks the students to create an app that simulates two dice rolling. It requires images to appear on the page that resemble two dies. </td>
 </tr>
+<tr>
+	<td><strong><a href="projects/project3">Project 2: Optional</a></strong></td>
+	<td colspan="2">This project uses the random number generation code students previously wrote to color squares in a grid.</td>
+	<tr>
 
 <tr>
 	<td><a href="topics/topic2">2 Arrays </a></td>
@@ -23,12 +27,9 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 	<td>In lesson 2  the students are introduced to project 2 which requires them to combine their knowledge of the Math Library and Arrays.</td>
 </tr>
 <tr>
-	<td><strong><a href="projects/project2">Project 2</a></strong></td>
+	<td><strong><a href="projects/project3">Project 3</a></strong></td>
 	<td colspan="2">This project requires the students to combine their knowledge of the Math Library and Arrays to create a webapp that will randomly select someone from class. </td>
 </tr>
-<tr>
-	<td><strong><a href="projects/project3">Project 3</a></strong></td>
-	<td colspan="2">This project uses the random number generation code students previously wrote to color squares in a grid. NOTE: you may want to do this project BEFORE project 2.</td>
 	<tr>
 		<th align="center" colspan="3">Unit Challenge: hr.gs/unit11challenge </th>
 	</tr>
