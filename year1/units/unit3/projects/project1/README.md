@@ -6,7 +6,7 @@ The project for this unit is a tutorial made by General Assembly. This tutorial 
 
 
 ##Estimated Completion Time
-This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
+This project should take 90 minutes to complete. Projects may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
 * **Before class begins** 1 copy of the [GA Tutorial Worksheet](https://www.dropbox.com/s/x7kyti0jt6easj0/GeneralAssemblyPacketJeffBlog.docx ) must be printed for each student.
@@ -23,7 +23,7 @@ This project should take 90 minutes to complete. Project may take less or more t
 ##[Google Slides](https://docs.google.com/presentation/d/150yZStV8RYMswp0Z8aIR-4jHjIkv9kjMXCAbkMjBV48/edit?usp=sharing)
 
 ##Project Extensions
-If students complete this project early, they are encouraged to copy and paste the code into popcode and customize the site to be personalized to them.
+If students complete this project early, they are encouraged to copy and paste the code into Popcode and customize the site to be more personalized to them.
 
 
 
