@@ -6,7 +6,7 @@
 |----|----|
 |[Foundations Course](year1)| The focus of the course if **Exposure**. Students are given their first introduction to coding. They will create projects in HTML, CSS and JavaScript.|
 |[Advanced Course](year2)| The focus of this course is **Experience**. In this course the students further develop their web development technical skills through lessons and projects that interact with JSON and popular APIs. Students will also be challenged to improve their professional skills in this course.|
-|[ScriptEd Studio](year3)| The focus of this course is **Independence**. The ScriptEd Studio provides ScriptEd's most experienced students with the opportunity to complete passion projects with help from ScriptEd mentors.|
+|ScriptEd Studio| The focus of this course is **Independence**. The ScriptEd Studio provides ScriptEd's most experienced students with the opportunity to complete passion projects with help from ScriptEd mentors.|
 
 ####For more information about ScriptEd go to [scripted.org](https://www.scripted.org)
 
