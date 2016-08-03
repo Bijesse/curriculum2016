@@ -9,7 +9,7 @@ This unit should take 120 minutes to complete. Project may take less or more tim
 
 ##Teacher Notes & Pro Tips
 * It is encouraged that the teachers in the class complete this project beforehand to understand what issues the students might encounter.
-* Students may or may not have an understanding with objects already. Practice makes perfect! 
+* Students may or may not have an understanding of objects already. Practice makes perfect! 
 
 <br>
 
