@@ -23,7 +23,7 @@ In this unit students will be introduced to **For Loops.** They will generate im
 	<td>In lesson 2 </td>
 </tr>
 <tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit11challenge </th>
+	<th align="center" colspan="3">Unit Challenge: hr.gs/unit12challenge </th>
 </tr>
 <tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>

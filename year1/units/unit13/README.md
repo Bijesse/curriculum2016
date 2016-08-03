@@ -18,11 +18,11 @@ In this unit students are introduced to the concept of game development as the b
 
 <tr>
 	<td><a href="topics/topic2">2 Arrays </a></td>
-	<td>In lesson 1 </td>
+	<td>In lesson 1 the students are introducced to collision detection. They will collide elements into eachother to initiate function calls.</td>
 	<td>In lesson 2 </td>
 </tr>
 <tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit11challenge </th>
+	<th align="center" colspan="3">Unit Challenge: hr.gs/unit13challenge </th>
 </tr>
 <tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>
