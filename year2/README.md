@@ -14,7 +14,7 @@ Advanced Course
 | 2 sessions | [JS Objects](units/5-JSobjects) | Objects| Student will create objects and call information from them. |
 | 2 sessions | [Giphy API](units/6-giphyAPI) | API, JSON, Dev Tools| Student will create a webapp using the Giphy API|
 | 2 sessions | [Open Weather API](units/7-openWeatherAPI) | API, JSON, Dev Tools| Student will create a webapp using the Open Weather API|
-| 2 sessions | [Optional Unit: Foursquare API](units/opt-FoursquareAPI) | API, JSON, Dev Tools| Student will create a webapp using the Foursquare API. This project uses the same skills in the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
+| 2 sessions | [Optional Unit: Foursquare API](units/opt-FoursquareAPI) | API, JSON, Dev Tools| Student will create a webapp using the Foursquare API. This project uses the same skills as the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
 | 1 session| [Tech Culture Day](units/8-techDay) | Professional Skills| What to expect in a technical interview and Staying involved in the Tech community. |
 | 5-8 sessions | [Entreprenuer](units/9-entrepreneur) | Project management| Students will be creating their own product in small teams. |
 
