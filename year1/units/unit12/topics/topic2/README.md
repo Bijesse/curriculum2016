@@ -1,4 +1,4 @@
-#Unit 11: Topic 2 || Arrays
+#Unit 12: Topic 2 || Arrays
  ![Imgur](http://i.imgur.com/hvHlwejm.png)
  
 <table>
