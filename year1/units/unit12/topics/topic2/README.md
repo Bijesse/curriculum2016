@@ -23,7 +23,7 @@
 |-------|-------|
 |  <ul>Students will be able to... <li>create and access information from an array.</li> <li>randomly access information from an array using the array index.</li></ul>  |<ul>  <li>Index</li></ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
-|Allow students to attempt a new skill before teaching it. Self-discovery is key. | <ul><li><a href = "https://docs.google.com/presentation/d/1jMFhz4ImpQrkgDf5jmYVloHOcDchNoZkewuyer-h7Eo/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li><a href = "https://docs.google.com/presentation/d/1jMFhz4ImpQrkgDf5jmYVloHOcDchNoZkewuyer-h7Eo/edit#slide=id.g1160ab3229_0_50">Slides: Lesson 2</a></li></ul> |
+|Allow students to attempt a new skill before teaching it. Self-discovery is key. | <ul><li><a href = "https://docs.google.com/presentation/d/1jMFhz4ImpQrkgDf5jmYVloHOcDchNoZkewuyer-h7Eo/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li><a href = "https://docs.google.com/presentation/d/16XxbPKe53wUsFqlqbRXADzlhGL7ferB-qwSnPkmmp6U/edit">Slides: Lesson 2</a></li></ul> |
 >
 
 
