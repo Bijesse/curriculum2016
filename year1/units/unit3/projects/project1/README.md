@@ -18,7 +18,7 @@ This project should take 90 minutes to complete. Projects may take less or more 
 
 | Starter code | Solution Code |
 |-------|-------|
-|This project does not contain any Starter Code. | [Solution code](https://dash.generalassemb.ly/projects/build-your-own-blog-theme) |
+|This project does not contain any Starter Code. | NA |
 
 ##[Google Slides](https://docs.google.com/presentation/d/150yZStV8RYMswp0Z8aIR-4jHjIkv9kjMXCAbkMjBV48/edit?usp=sharing)
 
