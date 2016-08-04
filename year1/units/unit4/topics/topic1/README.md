@@ -9,7 +9,7 @@
 <tr>
 
 	<td>In part 1 students will be introduced to text-align and float. </td>
-	<td>In part 2 the students will be introduced to the CSS box model. In part 2 the students will be introduced to the CSS box model. They will also be given a <a target ="_blank" href ="">ScriptEd Reference Table</a></td>
+	<td>In part 2 the students will be introduced to the CSS box model. In part 2 the students will be introduced to the CSS box model. They will also be given a <a target ="_blank" href ="https://github.com/ScriptEdcurriculum/curriculum2016/blob/master/resources/ScriptEdReferenceTable2016.pdf">ScriptEd Reference Table</a></td>
 </tr>
 </table>
 
