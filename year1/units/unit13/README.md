@@ -18,15 +18,15 @@ In this unit students are introduced to the concept of game development as the b
 
 <tr>
 	<td><a href="topics/topic2">2 Arrays </a></td>
-	<td>In lesson 1 the students are introducced to collision detection. They will collide elements into eachother to initiate function calls.</td>
-	<td>In lesson 2 </td>
+	<td>In lesson 1 the students are introduced to collision detection. They will collide elements into eachother to initiate function calls.</td>
+	<td>N/A students will dive right into project 2 after completing lesson 1 </td>
 </tr>
 <tr>
 	<th align="center" colspan="3">Unit Challenge: hr.gs/unit13challenge </th>
 </tr>
 <tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>
-	<td colspan="2">This project  </td>
+	<td colspan="2">This project asks the students to simulate an object "falling". this will require the use of setinterval() and clearInterval()  </td>
 </tr>
 </table>
 
@@ -34,6 +34,7 @@ In this unit students are introduced to the concept of game development as the b
 ##Extra Resources, Challenges and Projects
 
 
+* Project Idea: Falling Snow: Randomly generate elements that fall from the top of the window  
 
 [Computer Science Standards Alignment](csStandards.md)
 
