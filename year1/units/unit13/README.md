@@ -1,6 +1,6 @@
 #Unit 13: JavaScript: Animations and Collisions
 
-In this unit students are introduced to the concept of game development as the begin to program simple **Animations & Collision Detections** using jQuery <table>
+In this unit students are introduced to the concept of game development as they begin to program simple **Animations & Collision Detections** using jQuery <table>
 <tr>
 	<th>Topic</th>
 	<th>Lesson 1 (45 min)</th>
@@ -9,7 +9,7 @@ In this unit students are introduced to the concept of game development as the b
 <tr>
 	<td><a href="topics/topic1">1 Moving objects</a></td>
 	<td>In lesson 1 students will be introduced to **.keydown** they will use this to move elements around on a page.</td>
-	<td>In lesson 2 the students are introduced to collision detection. They will collide elements into eachother to initiate function calls</td>
+	<td>In lesson 2 the students are introduced to collision detection. They will collide elements into eachother to initiate function calls.</td>
 </tr>
 <tr>
 	<td><strong><a href="projects/project1">Project 1</a></strong></td>
