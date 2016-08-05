@@ -13,7 +13,7 @@ In this unit students are introduced to the concept of game development as they 
 </tr>
 <tr>
 	<td><strong><a href="projects/project1">Project 1</a></strong></td>
-	<td colspan="2">This project asks the students to simulate an object "falling". this will require the use of setinterval() and clearInterval()  </td>
+	<td colspan="2">This project asks the students to simulate an object "falling." This will require the use of setinterval() and clearInterval()  </td>
 </tr>
 <tr>
 	<th align="center" colspan="3">Unit Challenge: hr.gs/unit13challenge </th>
