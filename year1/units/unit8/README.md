@@ -18,7 +18,7 @@ In this unit the class will collaborate on a project using GitHub and Cloud 9.
 	<td colspan="2">This project has the students complete their Tiny Turtle project to create shapes from procedural commands made to the turtle in the form of functions.</td>
 </tr>
 <tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit8challenge </th>
+	<th align="center" colspan="3">Unit Challenge: N/A This unit does not have a HackerRank Challenge </th>
 </tr>
 
 
