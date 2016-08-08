@@ -1,29 +1,33 @@
-#Unit 13: Project 1 || Falling Object
+#Unit 14: Capstone Project
 
 
 ##Scope
-This project asks the students to simulate an object "falling". this will require the use of setinterval() and clearInterval() 
+Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. Students will be broken up into groups of 2-3
 
 ##Estimated Completion Time
-This project should should take 2 lessons (90 min) to complete. Project may take more or less time depending on students' needs
+This project should should take 6 lessons (270 min) to complete. Project may take more or less time depending on students' needs
 
 ##Teacher Notes & Pro Tips
-* Students are encouraged to work in pairs. Give a brief reminder on what the driver/GPS relationship looks like in paired programming
-* At one point the students are asked to convert this project from Popcode to GitHub & Cloud9. **Do not skip this step.** At this point in the year all projects must be submitted through Cloud 9 and GitHub. It is a skill the students must learn.
+* This project will span several classes. It is important to start off each day with a do now and end each day with a scrum. This keeps everyone focused.
+* Students often set unrealistic daily goals. Encourage them to break up goals in to very small, attainable tasks.
+* To save time, Scrums can be completed in small groups with one volunteer assigned to each scrum.
 
 <br>
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://popcode.org/?gist=c153b309d8c2d3b21bfba1149ea9b304) | [Solution Code]() (private repo)|
+|N/A this project does not have any starter code | [Example Solution Code]() (private repo)|
 
-##[Google Slides](https://docs.google.com/presentation/d/1hR3-M3sHHgfd3Cd_LTojBBLWLurDr_PTgOgsbmK1TU4/edit#slide=id.g12ee5b58a7_1_0)
+##[Google Slides](https://docs.google.com/presentation/d/1NvnX1AlpYzmjqVpwc7EijRoLsguq0ytX1E2XxwPqhSI/edit#slide=id.g12ee5b58a7_1_0)
 
 ##Project Extensions
-If students complete this project early, they should be encouraged to...
+Students are encouraged to be endlessly creative in this project. Examples of ways to improve this project are...
 
-* Change or flatten the image when it hits the ground
-* Create a snowflake effect where the object falls from a random x co-ordinate 
+* create a win/lose feature
+* add music
+* add a start screen
+* allow user to choose their character
+* multiplayer
 
 
 
