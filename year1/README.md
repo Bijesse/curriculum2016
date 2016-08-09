@@ -8,16 +8,16 @@ Year 1
 |  135 minutes | [**1**](units/unit1) | HTML: Content | In this unit students will be introduced to HTML. They will learn basic tag structure and will use the following tags `<head> <body> <p> <h1> <img> <a>`|
 | 180 minutes | [**2**](units/unit2) | CSS Tag Selectors | In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors.|
 | 270 minutes | [**3**](units/unit3) | HTML Lists, HTML IDs & Classes, `<div>` | In this unit students will first learn how to make ordered and unordered list. They will then utilize IDs and Classes to identify tags on a webpage. |
-| 315 minutes | [**4**](units/unit4) |  Positioning, Layout & Wireframing | In this unit students will learn to position elements on a page using CSS. Students will be introduced to the CSS box model. |
+| 225 minutes | [**4**](units/unit4) |  Positioning, Layout & Wireframing | In this unit students will learn to position elements on a page using CSS. Students will be introduced to the CSS box model. |
 | 270 minutes | [**5**](units/unit5) | jQuery: show/hide, events, inputs, .val() | In this unit students are introduced to jQuery. jQuery is used as a tool for creating interactive websites that react to user actions. |
 | 90 minutes | [**6**](units/unit6) | Cloud9, Git, Multi-Page Sites| In this unit students will be introduced to a new IDE called Cloud 9. They will then create a project using Cloud 9 and GitHub using skills they have already gained in previous units. |
-| 90 minutes | [**7**](units/unit7) | GitHub Collaboration | In this unit the class will collaborate on a project using GitHub and Cloud 9.|
-| 180 minutes | [**8**](units/unit8) | JavaScript Introduction | In this unit the students are in given a soft introduction to JavaScript. They will be making **Function** calls to manipulate content on a webpage.
-| 180 minutes | [**9**](units/unit9) | JavaScript: Conditionals, Variables, Strings| In this unit students are introduced to **Conditional Statements, Vairables & Strings** Through the course of making two games that ask the user to guess a certain word or number.|
+| 45 minutes | [**7**](units/unit7) | GitHub Collaboration | In this unit the class will collaborate on a project using GitHub and Cloud 9.|
+| 135 minutes | [**8**](units/unit8) | JavaScript Introduction | In this unit the students are in given a soft introduction to JavaScript. They will be making **Function** calls to manipulate content on a webpage.
+| 360 minutes | [**9**](units/unit9) | JavaScript: Conditionals, Variables, Strings| In this unit students are introduced to **Conditional Statements, Vairables & Strings** Through the course of making two games that ask the user to guess a certain word or number.|
 | 180 minutes | [**10**](units/unit10) | JavaScript: Functions| In this unit students combine their knowledge of **Variables & Functions** to revisit Tiny Turtle to define their own functions. After this they will create new functions for mini-projects.|
-| 180 minutes | [**11**](units/unit11) | JavaScript: Math & Arrays| This unit kicks off with a game of Jeopardy. Then this unit introduces students to the JavaScript **Math library** in the form of a dice simulation game and grid painting game. After that they will be introduced to **Arrays**. |
+| 270 minutes | [**11**](units/unit11) | JavaScript: Math & Arrays| This unit kicks off with a game of Jeopardy. Then this unit introduces students to the JavaScript **Math library** in the form of a dice simulation game and grid painting game. After that they will be introduced to **Arrays**. |
 | 180 minutes | [**12**](units/unit12) | JavaScript: Animations and Collisions|In this unit students are introduced to the concept of game development as the begin to program simple **Animations & Collision Detections** using jQuery |
-| 360 minutes | [**13**](units/unit13) | JavaScript: Looping| In this unit students will be introduced to **For Loops.** They will generate images rapidly on an HTML page and will then revisit Tiny Turtle to create fractal art programs.|
+| 450 minutes | [**13**](units/unit13) | JavaScript: Looping| In this unit students will be introduced to **For Loops.** They will generate images rapidly on an HTML page and will then revisit Tiny Turtle to create fractal art programs.|
 | 360 minutes | [**14**](units/unit14) | Capstone Project |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. |
 
 
@@ -37,8 +37,9 @@ Year 1
 ![Imgur](http://i.imgur.com/44cqS24.png)
 This calendar is a recommended schedule to be followed in ScriptEd courses.
 
-####Resources
-[5 day per week class resources](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing)  
+####School Teacher Resources
+[Pacing Guide for in-class teachers](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing): To be used in ScriptEd course that are co-taught with a teacher from the school.
+[CodeCademy Class Creator Guidelines](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing)  
 
 
 <br>
