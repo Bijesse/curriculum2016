@@ -16,9 +16,9 @@ Year 1
 | 180 minutes | [**9**](units/unit9) | JavaScript: Conditionals, Variables, Strings| In this unit students are introduced to **Conditional Statements, Vairables & Strings** Through the course of making two games that ask the user to guess a certain word or number.|
 | 180 minutes | [**10**](units/unit10) | JavaScript: Functions| In this unit students combine their knowledge of **Variables & Functions** to revisit Tiny Turtle to define their own functions. After this they will create new functions for mini-projects.|
 | 180 minutes | [**11**](units/unit11) | JavaScript: Math & Arrays| This unit kicks off with a game of Jeopardy. Then this unit introduces students to the JavaScript **Math library** in the form of a dice simulation game and grid painting game. After that they will be introduced to **Arrays**. |
-| 180 minutes | [**12**](units/unit12) | JavaScript: Looping| In this unit students will be introduced to **For Loops.** They will generate images rapidly on an HTML page and will then revisit Tiny Turtle to create fractal art programs.|
-| 180 minutes | [**13**](units/unit13) | JavaScript: Animations and Collisions|In this unit students are introduced to the concept of game development as the begin to program simple **Animations & Collision Detections** using jQuery |
-| 270 minutes | [**14**](units/unit14) | Capstone Project |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. |
+| 180 minutes | [**12**](units/unit12) | JavaScript: Animations and Collisions|In this unit students are introduced to the concept of game development as the begin to program simple **Animations & Collision Detections** using jQuery |
+| 360 minutes | [**13**](units/unit13) | JavaScript: Looping| In this unit students will be introduced to **For Loops.** They will generate images rapidly on an HTML page and will then revisit Tiny Turtle to create fractal art programs.|
+| 360 minutes | [**14**](units/unit14) | Capstone Project |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. |
 
 
 ####Misc Lessons, Games and Projects
