@@ -27,7 +27,7 @@ In this unit students will learn how to manipulate the look and feel of a webpag
 	<th align="left" colspan="2">This project asks the students to work in pairs to compete in  the online design competition called <a href="csszengarden.com">CSS Zen Garden</a>. </th>
 </tr>
 <tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit4challenge </th>
+	<th align="center" colspan="3">Unit Survey: http://bit.ly/LayoutSurvey </th>
 </tr>
 
 </table>
