@@ -29,7 +29,7 @@ Advanced Course
 |  [Typing](https://docs.google.com/presentation/d/18-1xt6VBbh5WM6afUbYJOWO2Gd9hgTaMFhZOz6gV6qc/edit?usp=sharing)  | In this lesson, the students are given type based games that will improve typing skills and speed|
 |  [Programming with Scratch](../miscLessons/scratchUnit)  | This resourse is a unit of lessons that culminates into a "Madlibs" project. In this unit, students use MIT's Scratch to learn programming concepts with a well known block-based programming language.|   
 
-![Imgur](http://i.imgur.com/OCpzQ2C.png)
+![Imgur](http://i.imgur.com/YGbQsnX.png)
 This calendar is a recommended schedule to be followed in ScriptEd courses.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ScriptEd Curriculum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ScriptEdcurriculum/curriculum" property="cc:attributionName" rel="cc:attributionURL">ScriptEd, Inc.</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.  Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ScriptEdcurriculum/curriculum2016" rel="dct:source">https://github.com/ScriptEdcurriculum2016</a>.
