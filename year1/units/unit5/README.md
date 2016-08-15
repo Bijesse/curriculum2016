@@ -37,7 +37,7 @@ In this unit students are introduced to jQuery. jQuery is used as a tool for cre
 ##Extra Resources, Challenges and Projects
 **Project:** [Do you love ScriptEd?](https://popcode.org/?gist=0b45fb64254646f993da2804b691a497) This can be completed with topic 1 skills only
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

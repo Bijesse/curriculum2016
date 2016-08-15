@@ -26,7 +26,7 @@ In this unit students are introduced to the concept of game development as they 
 
 * Project Idea: Falling Snow: Randomly generate elements that fall from the top of the window  
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

@@ -26,5 +26,5 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 
 ##Extra Resources, Challenges and Projects
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 

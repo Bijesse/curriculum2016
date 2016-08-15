@@ -36,7 +36,7 @@ In this unit students are introduced to **Conditional Statements, Variables & St
 ##Extra Resources, Challenges and Projects
 
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

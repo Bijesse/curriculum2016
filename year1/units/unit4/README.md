@@ -33,7 +33,7 @@ In this unit students will learn how to manipulate the look and feel of a webpag
 </table>
 
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

@@ -27,7 +27,7 @@ In this unit students will first learn how to make ordered and unordered lists. 
 </table>
 
 ##Extra Resources, Challenges and Projects
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

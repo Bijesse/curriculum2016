@@ -19,7 +19,7 @@ Students will be compiling all their knowledge from the year in a final project 
 
 ##Extra Resources, Challenges and Projects
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

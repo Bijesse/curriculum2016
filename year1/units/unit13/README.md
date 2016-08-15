@@ -30,7 +30,7 @@ In this unit students will be introduced to **For Loops.** They will generate im
 
 
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

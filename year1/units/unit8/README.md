@@ -28,7 +28,7 @@ In this unit the class will collaborate on a project using GitHub and Cloud 9.
 ##Extra Resources, Challenges and Projects
 
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 
