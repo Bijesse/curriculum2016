@@ -19,7 +19,7 @@ No more than 120 minutes should be allocated to this project.
 |-------|-------|
 |This project does not contain any starter code | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/blob/master/year2/1-review/clueSolution.md)|
 
-##[Google Slides](https://docs.google.com/presentation/d/1esamRfyAFhl2quGDxt3-NRvHLHwhFad9g-sYucYJlFg/edit?usp=sharing)
+##[Google Slides](https://docs.google.com/presentation/d/1IBuckUNnsTBvcRPv8AjgffajG1YFVkSW4-Ik8xYn-ik/edit#slide=id.g135945ce02_0_222)
 
 ##Project Extensions
 There are pleanty of challenges for this project that students completing early should not be an issue. It is likely no group will complete all the tasks.
