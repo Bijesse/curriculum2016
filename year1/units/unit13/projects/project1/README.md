@@ -15,7 +15,7 @@ This project should can take 1-2 classes. If the students are given specific tas
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/unit12TinyTurtle) | N/A This project is all about creativity! (private repo)|
+|[Starter Code](https://github.com/ScriptEdcurriculum/unit12TinyTurtle) | N/A This project is all about creativity!|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1huJQr2YQW6vYh-4sHb61XuK617b0cM-DaqS6wPYg9V0/edit?usp=sharing)
 
