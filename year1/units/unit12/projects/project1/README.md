@@ -15,7 +15,7 @@ This project should should take 2 lessons (90 min) to complete. Project may take
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://popcode.org/?gist=c153b309d8c2d3b21bfba1149ea9b304) | [Solution Code]() (private repo)|
+|[Starter Code](https://popcode.org/?gist=c153b309d8c2d3b21bfba1149ea9b304) | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit12/project1) (private repo)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1hR3-M3sHHgfd3Cd_LTojBBLWLurDr_PTgOgsbmK1TU4/edit#slide=id.g12ee5b58a7_1_0)
 
