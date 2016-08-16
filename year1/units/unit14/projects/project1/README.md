@@ -16,7 +16,7 @@ This project should should take 6 lessons (270 min) to complete. Project may tak
 
 | Starter code | Solution Code |
 |-------|-------|
-|N/A this project does not have any starter code | [Example Solution Code]() (private repo)|
+|N/A this project does not have any starter code | [Example Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit14/project1) (private repo)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1NvnX1AlpYzmjqVpwc7EijRoLsguq0ytX1E2XxwPqhSI/edit#slide=id.g12ee5b58a7_1_0)
 
