@@ -5,7 +5,7 @@
 This unit will cover the basics of JavaScript objects. It will begin with a 45 minute lesson on objects and will then ask the students to create a project that incorporates what they have learned. The goal of this unit is to have the students become comfortable working with objects so that they can then work with API requests.
 
 ##Estimated Completion Time
-This unit should take 120 minutes to complete. Project may take less or more time depending on students' needs.  
+This unit should take 120 minutes to complete. The project may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
 * It is encouraged that the teachers in the class complete this project beforehand to understand what issues the students might encounter.
