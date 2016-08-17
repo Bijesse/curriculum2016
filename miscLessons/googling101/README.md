@@ -3,7 +3,7 @@
 ![Imgur](http://i.imgur.com/LBhbHpD.jpg)
 
 ##Summary (45 minutes)
-In this lesson the students will learn how to get the most out of their Google searches. Students will be taught how to make their searches brief yet powerful. Teachers will share best practices through mini-activities.
+In this lesson, the students will learn how to get the most out of their Google searches. Students will be taught how to make their searches brief yet powerful. Teachers will share best practices through mini-activities.
 
 ##Teacher Notes & Pro Tips
 * Less is more!
