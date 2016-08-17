@@ -1,7 +1,7 @@
 #Unit: Entrepreneur
 
 ##Scope
-In this session students will work in small groups to create a project from scratch. This project is intended to highlight some very important aspects of being a quality engineer that include:
+In this session, students will work in small groups to create a project from scratch. This project is intended to highlight some very important aspects of being a quality engineer that include:
 
 * Being a self-starter
 * Working in groups
