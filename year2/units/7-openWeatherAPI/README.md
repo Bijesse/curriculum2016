@@ -23,7 +23,7 @@ Students who complete this task early are encouraged to:
 
 * Add CSS
 * Create a feature the changes the background color of the page depending on the temperature in that city.
-* Combine this project with the Flickr API to display an image from the queried city too 
+* Combine this project with the Flickr API to display an image from the queried city too.
 
 
 
