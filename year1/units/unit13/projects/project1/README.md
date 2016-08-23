@@ -1,5 +1,5 @@
 #Unit 13: Project 1 || Turtle Fractal Art
-
+![Imgur](http://i.imgur.com/lcFUk0nm.png)
 
 ##Scope
 This project asks the students to visit tiny turtle for the last time. They will creating fractal art using for loops that direct the turtle.
