@@ -6,7 +6,7 @@ Advanced Course
 
 | Time  | Unit | Topics/Skills | Description |
 |-------|:-------:|------|--------------|
-| 1 session | [Intro](units/0-intro) | Expectations set & Slack channel created | All advanced students will meet at a central location. An info session will be held by ScriptEd. Students will sign up for a Slack channel during this time. |
+| 1 session | [Intro](units/0-intro) | Expectations set & Communication Channel Created | All advanced students will meet at a central location. An info session will be held by ScriptEd. Students will be given clear expectations on communication standards. |
 | 3 sessions| [Review](units/1-review) | JS Types| Students will be challenged with multiple mini-challenges using content from ScriptEd year 1. They will then take a deeper dive into concepts that need revisiting. |
 | 2 sessions | [Website Redesign](units/2-websiteRedesign) | Bootstrap & GitHub Pages| Student will take apart a website and give the homepage a redesign using Bootstrap. This project will be completed in pairs. |
 | 1 session| [Portfolio](units/3-portfolio) | Professionalism| In this session students will create a professional portfoilio in which they can upload all their projects to.|
