@@ -42,7 +42,7 @@ This calendar is a recommended schedule to be followed in ScriptEd courses.
 
 * [Pacing Guide for in-class teachers](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing): To be used in ScriptEd course that are co-taught with a teacher from the school.
 * [CodeCademy Class Creator Guidelines](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing)  
-* [Course Syllabus](../resources/foundationsSyllabus)
+* [Course Syllabus](../resources/foundationsSyllabus.pdf)
 
 
 <br>
