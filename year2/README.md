@@ -28,6 +28,7 @@ Advanced Course
 |  [CRUD Operations](../miscLessons/commandLine)  | In this project, the students are taught how to navigate around their device (or IDE) using command line operations. Concepts taught include `rm, mv, ls, pwd, >, mkdir` |
 |  [Typing](https://docs.google.com/presentation/d/18-1xt6VBbh5WM6afUbYJOWO2Gd9hgTaMFhZOz6gV6qc/edit?usp=sharing)  | In this lesson, the students are given type based games that will improve typing skills and speed|
 |  [Programming with Scratch](../miscLessons/scratchUnit)  | This resourse is a unit of lessons that culminates into a "Madlibs" project. In this unit, students use MIT's Scratch to learn programming concepts with a well known block-based programming language.|   
+|  [this](../miscLessons/this)  | This resource is a 45 minute lesson. The students will be introduced to this in terms of jQuery events. This lesson does not touch on `this` in terms of its use in objects. It is intended to be taught to students of varying abilities.|  
 
 ![Imgur](http://i.imgur.com/YGbQsnX.png)
 This calendar is a recommended schedule to be followed in ScriptEd courses.
