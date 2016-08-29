@@ -1,28 +1,29 @@
-#Unit 12: Project 1 || Turtle Fractal Art
+#Unit 12: Project 1 || Falling Object
 
 
 ##Scope
-This project asks the students to visit tiny turtle for the last time. They will creating fractal art using for loops that direct the turtle.
+This project asks the students to simulate an object "falling". this will require the use of setinterval() and clearInterval() 
 
 ##Estimated Completion Time
-This project should can take 1-2 classes. If the students are given specific task to work towards such as draw a flower this project can be extremely engaging. Teacher should use their discretion as to how long this project should last. 
+This project should should take 2 lessons (90 min) to complete. Project may take more or less time depending on students' needs
 
 ##Teacher Notes & Pro Tips
-* Provide students with goals. Create a ___ that looks like ____.
-* Tie loops back into earlier concepts learned in Tiny turtle such at functions.
+* Students are encouraged to work in pairs. Give a brief reminder on what the driver/GPS relationship looks like in paired programming
+* At one point the students are asked to convert this project from Popcode to GitHub & Cloud9. **Do not skip this step.** At this point in the year all projects must be submitted through Cloud 9 and GitHub. It is a skill the students must learn.
 
 <br>
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/unit12TinyTurtle) | N/A This project is all about creativity! (private repo)|
+|[Starter Code](https://popcode.org/?gist=c153b309d8c2d3b21bfba1149ea9b304) | [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit12/project1) (private repo)|
 
-##[Google Slides](https://docs.google.com/presentation/d/1huJQr2YQW6vYh-4sHb61XuK617b0cM-DaqS6wPYg9V0/edit?usp=sharing)
+##[Google Slides](https://docs.google.com/presentation/d/1hR3-M3sHHgfd3Cd_LTojBBLWLurDr_PTgOgsbmK1TU4/edit#slide=id.g12ee5b58a7_1_0)
 
 ##Project Extensions
 If students complete this project early, they should be encouraged to...
 
-* Change some of the documentation in the tiny turtle library for added customization.
+* Change or flatten the image when it hits the ground
+* Create a snowflake effect where the object falls from a random x co-ordinate 
 
 
 

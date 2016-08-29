@@ -1,6 +1,6 @@
 #Unit 3: HTML Lists, Classes & IDs 
 
-In this unit students will first learn how to make ordered and unordered list. They will then utilize IDs and Classes to identify tags on a webpage.
+In this unit students will first learn how to make ordered and unordered lists. They will then utilize IDs and Classes to identify tags on a webpage.
 
 <table>
 <tr>
@@ -11,12 +11,12 @@ In this unit students will first learn how to make ordered and unordered list. T
 <tr>
 	<td align="left"> <a href="topics/topic1">1 HTML lists</a> </td>
 	<td>In lesson 1 students will create a wepage with four HTML lists  </td>
-	<td> <strong>N/A</strong> The teacher may teach a misc lesson (found on last page) of their choosing or move straight to topic 2. </td>
+	<td> <strong>N/A</strong> The teacher may teach a miscellaneous lesson of their choosing (found on last page) or move straight to Topic 2. </td>
 </tr>
 <tr>
 	<td align="left"> <a href="topics/topic2">2 Classes, IDs & Divs</a> </td>
 	<td>In lesson 1 students will assign IDs and Classes to paragraphs, headings and lists</td>
-	<td> In lesson 2 the students will be introduced to div tags. they will then apply styles to specific divs. </td>
+	<td> In lesson 2 the students will be introduced to div tags. They will then apply styles to specific divs. </td>
 </tr>
 <tr>
 	<th align="center" colspan="3">Unit Challenge: hr.gs/unit3challenge </th>
@@ -27,7 +27,7 @@ In this unit students will first learn how to make ordered and unordered list. T
 </table>
 
 ##Extra Resources, Challenges and Projects
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

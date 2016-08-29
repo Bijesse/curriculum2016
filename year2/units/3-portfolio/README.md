@@ -16,7 +16,7 @@ This unit should take 1 sessions to complete.
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/Portfolio_Advanced) | [Example Solution](bijesse.com)|
+|[Starter Code](https://github.com/ScriptEdcurriculum/Portfolio_Advanced) | [Example Solution](https://cdn.rawgit.com/Sheng0o0/bijesse.github.io/master/index.html)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1n5jYLGwAqVsr5XrGREWyTVKOeUPRQvlPCE-WyIV-4hI/edit?usp=sharing)
 

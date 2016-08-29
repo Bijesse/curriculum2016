@@ -9,7 +9,7 @@
 <tr>
 
 	<td>In lesson 1 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have. </td>
-	<td>In lesson 2 the students will create a mini project that uses varibales. They will be working with Strings throughout this practice too.</td>
+	<td>In lesson 2 the students will create a mini project that uses varibales. They will be working with strings throughout this practice too.</td>
 </tr>
 </table>
 

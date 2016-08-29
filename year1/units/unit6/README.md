@@ -29,7 +29,7 @@ In this unit students will be introduced to a new IDE called Cloud 9. They will 
 ##Extra Resources, Challenges and Projects
 
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

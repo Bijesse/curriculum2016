@@ -1,6 +1,6 @@
 #Unit 9: JavaScript: Conditionals, Variables and Strings
 
-In this unit students are introduced to **Conditional Statements, Vairables & Strings** Through the course of making two games that ask the user to guess a certain word or number.
+In this unit students are introduced to **Conditional Statements, Variables & Strings** Through the course of making two games that ask the user to guess a certain word or number.
 <table>
 <tr>
 	<th>Topic</th>
@@ -10,7 +10,7 @@ In this unit students are introduced to **Conditional Statements, Vairables & St
 <tr>
 	<td><a href="topics/topic1">1 If, Variables & Strings</a></td>
 	<td>In lesson 1 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have.   </td>
-	<td>In lesson 2 the students will create a mini project that uses varibales. They will be working with Strings throughout this practice too.</td>
+	<td>In lesson 2 the students will create a mini project that uses varibales. They will be working with strings throughout this practice too.</td>
 </tr>
 <tr>
 	<td><strong><a href="projects/project1">Project 1</a></strong></td>
@@ -36,7 +36,7 @@ In this unit students are introduced to **Conditional Statements, Vairables & St
 ##Extra Resources, Challenges and Projects
 
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

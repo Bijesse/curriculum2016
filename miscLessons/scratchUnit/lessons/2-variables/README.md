@@ -20,7 +20,7 @@
 
 ### Assessment
 
-1. Students will created a program in Scratch that can calculate the area of a rectangle.
+1. Students will create a program in Scratch that can calculate the area of a rectangle.
 
 
 ### Vocabulary

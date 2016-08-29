@@ -1,6 +1,6 @@
 #Unit 1: HTML Content 
 
-In this unit students will be introduced to HTML. They will learn tag structure and wil use basic tags `<head> <body> <p> <h1> <img> <a>`
+In this unit students will be introduced to HTML. They will learn tag structure and will use basic tags `<head> <body> <p> <h1> <img> <a>`
 
 <table>
 <tr>
@@ -26,5 +26,5 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 
 ##Extra Resources, Challenges and Projects
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 

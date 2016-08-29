@@ -2,7 +2,7 @@
 
 
 ##Scope
-In this session students will create a webapp using the Foursquare API. The webapp will consist of an input field and button that will be used to display relevant restaurants nearby of a specified food category. 
+In this session, students will create a webapp using the Foursquare API. The webapp will consist of an input field and button that will be used to display relevant restaurants nearby of a specified food category. 
 
 ##Estimated Completion Time
 This unit should take 2 sessions to complete. Project may take less or more time depending on students' needs but should not exceed 3 sessions.  

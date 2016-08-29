@@ -23,7 +23,7 @@ In this unit the class will collaborate on a project using GitHub and Cloud 9.
 ##Extra Resources, Challenges and Projects
 **Project:** [Portfolio Collaboration](https://github.com/Bijesse/scripted-student-portfolios) In this project the class creates a landing page for all their portfolios. 
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

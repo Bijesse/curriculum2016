@@ -25,18 +25,20 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 <tr>
 	<td><strong><a href="projects/project2">Project 2</a></strong></td>
 	<td colspan="2">This project requires the students to combine their knowledge of the Math Library and Arrays to create a webapp that will randomly select someone from class. </td>
-	<tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit11challenge </th>
 </tr>
+	<tr>
+		<th align="center" colspan="3">Unit Challenge: hr.gs/scripted11challenge </th>
+	</tr>
 </tr>
 </table>
 
 
 ##Extra Resources, Challenges and Projects
 
-* Project Idea: Magic 8 ball app
+* Project: [Random Color Square](projects/projectColorSquare). Extension to earlier project. Great resource! 
+* Project: Magic 8 ball app
 
-[Computer Science Standards Alignment](csStandards.md)
+[Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
 

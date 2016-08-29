@@ -15,7 +15,7 @@
 
 | Objectives | Vocabulary |
 |-------|-------|
-| <ul>Students will be able to...<li> describe what CSS is used for.</li> <li>Add style to a webpage </li> <li> Use hex colors to change content</li> </ul>  | <ul> <li>CSS</li> <li>Selector</li> <li>Property</li> <li>Value</li> <li>Hex</li>  </ul> | 
+| <ul>Students will be able to...<li> Describe what CSS is used for.</li> <li>Add style to a webpage </li> <li> Use hex colors to change content</li> </ul>  | <ul> <li>CSS</li> <li>Selector</li> <li>Property</li> <li>Value</li> <li>Hex</li>  </ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
 |<ul><li>CSS adds style to our webpages.</li><li>Style is everything from color to positioning.</li></ul>| <ul><li>[Slides: Part 1](https://docs.google.com/presentation/d/1mrVYVpXd39oechfvu1A96uSqM7zfWAPQ-JXAQ_fJGa8/edit#slide=id.g12ee5b58a7_0_0)</li><li>[Slides: Part 2](https://docs.google.com/presentation/d/1mrVYVpXd39oechfvu1A96uSqM7zfWAPQ-JXAQ_fJGa8/edit#slide=id.g1132cf0aae_1_64)</li></ul> | 
 

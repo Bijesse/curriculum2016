@@ -1,29 +1,28 @@
-#Unit 13: Project 1 || Show Us Your Moves
-
+#Unit 13: Project 1 || Turtle Fractal Art
+![Imgur](http://i.imgur.com/lcFUk0nm.png)
 
 ##Scope
-This project asks the students to create a webapp in which images appear based on user input key clicks.
+This project asks the students to visit tiny turtle for the last time. They will creating fractal art using for loops that direct the turtle.
 
 ##Estimated Completion Time
-This project should should take 2 classes to complete. Taking photos for the project will take a significant portion of time but should be seen as a fun activity and will help students learn how to upload and link local files.
+This project should can take 1-2 classes. If the students are given specific task to work towards such as draw a flower this project can be extremely engaging. Teacher should use their discretion as to how long this project should last. 
 
 ##Teacher Notes & Pro Tips
-* Students will look forward to presentations on this project even they seem like they won't. This project allows for students to show of their personality.
-* This project is similar to the activities completed earlier in this unit. Encourage students to reference their own code.
+* Provide students with goals. Create a ___ that looks like ____.
+* Tie loops back into earlier concepts learned in Tiny turtle such at functions.
 
 <br>
 
 | Starter code | Solution Code |
 |-------|-------|
-|This project has no starter code | [Solution Code]() (private repo)|
+|[Starter Code](https://github.com/ScriptEdcurriculum/unit12TinyTurtle) | N/A This project is all about creativity!|
 
-##[Google Slides](https://docs.google.com/presentation/d/1wT0a2Xi5hIHwLp-xG7smlByIoRcI_BEhDZAEo-YwBwo/edit?usp=sharing)
+##[Google Slides](https://docs.google.com/presentation/d/1huJQr2YQW6vYh-4sHb61XuK617b0cM-DaqS6wPYg9V0/edit?usp=sharing)
 
 ##Project Extensions
 If students complete this project early, they should be encouraged to...
 
-* Add a .keyUp component to this project.
-* Create other types of animations... like walking
+* Change some of the documentation in the tiny turtle library for added customization.
 
 
 
