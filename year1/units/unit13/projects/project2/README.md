@@ -13,7 +13,12 @@ This project should take 270 minutes to complete. Project may take less or more 
 * Teacher may choose to have students work alone or in pairs.
 * Solutions from the last step are given to students the following day. This is to avoid having students fall more than 1 day behind. 
 * This project is HARD! Remind the students of this frequently.
-* Have a pizza party when this project is over....They, and you, deserve it
+* Have a pizza party when this project is over....They, and you, deserve it  
+
+This project includes detailed guided doc that could be useful for anyone leading this project. These docs can be found in the [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit13/project2) files.
+ 
+
+
 
 <br>
 
